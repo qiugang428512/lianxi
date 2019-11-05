@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="295,92" pivot="0.5,0.5" extention="Button">
+  <controller name="c1" pages="0,,1," selected="1"/>
+  <displayList>
+    <image id="n7_quq8" name="n7" src="e0dy4s" fileName="_shareasset/组16拷贝.png" xy="-1,-2" size="298,96"/>
+    <image id="n6_quq8" name="n6" src="quq86u" fileName="windows/getreward/asset/翻倍.png" xy="68,20"/>
+    <image id="n8_pvpq" name="n8" src="xsvo88" fileName="_shareasset/形状3332.png" xy="182,23">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <image id="n9_np2a" name="n9" src="np2abx" fileName="_shareasset/shareicon.png" xy="183,16">
+      <gearDisplay controller="c1" pages="0"/>
+    </image>
+  </displayList>
+  <Button downEffect="scale" downEffectValue="1.10"/>
+</component>

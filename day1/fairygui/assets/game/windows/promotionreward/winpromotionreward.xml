@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="720,1280" designImage="ui://isxx5ak77suj2z">
+  <displayList>
+    <image id="n9_7suj" name="n9" src="e0dy47" fileName="_shareasset/圆角矩形9.png" xy="49,181" size="622,720"/>
+    <image id="n14_7suj" name="n14" src="7suj37" fileName="windows/promotionreward/asset/图层 44.png" xy="111,454"/>
+    <loader id="n26_ndfe" name="level_name_icon" xy="116,455" size="470,108" align="center" vAlign="middle"/>
+    <image id="n12_7suj" name="n12" src="7suj35" fileName="windows/promotionreward/asset/升段奖励.png" xy="289,582"/>
+    <image id="n13_7suj" name="n13" src="7suj32" fileName="windows/promotionreward/asset/不屈累铁 1.png" xy="194,365"/>
+    <image id="n24_xsvo" name="n24" src="xsvo8k" fileName="windows/promotionreward/asset/椭圆6.png" xy="105,46"/>
+    <image id="n15_7suj" name="n15" src="7suj39" fileName="_shareasset/1.1.png" xy="175,94"/>
+    <component id="n23_7suj" name="btn_promotion_reward" src="7suj3c" fileName="windows/promotionreward/component/btn_confirm.xml" xy="211,763"/>
+    <component id="n27_mfc0" name="n25" src="mfc0bf" fileName="windows/promotionreward/component/promotion_close.xml" xy="253,908"/>
+    <image id="n29_mfc0" name="n29" src="e0dy3f" fileName="_shareasset/组8.png" xy="284,643" size="76,90"/>
+    <text id="n30_mfc0" name="n30" xy="371,668" size="118,50" fontSize="40" color="#ffffff" autoSize="none" bold="true" strokeColor="#000000" text="x2"/>
+  </displayList>
+</component>

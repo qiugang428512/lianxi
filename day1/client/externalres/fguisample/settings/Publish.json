@@ -1,0 +1,16 @@
+{
+	"binaryFormat":true,
+	"codeGeneration":{
+		"classNamePrefix":"",
+		"codePath":"D:\\WORKING\\weixin_xiaoyouxi\\xiaochengxu\\小程序工具合集\\program_tools\\code\\Laya+fui微信项目示例\\code\\client\\src\\game\\view\\fui",
+		"codeType":"TS",
+		"getMemberByName":false,
+		"ignoreNoname":false,
+		"memberNamePrefix":"",
+		"packageName":"fui"
+	},
+	"compressDesc":false,
+	"fileExtension":"obj",
+	"packageCount":2,
+	"path":"E:\\Project\\LayaSelfwork\\Engine\\sample\\bin\\res\\ui"
+}

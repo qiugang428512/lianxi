@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="140,140" mask="n0_quq8">
+  <displayList>
+    <graph id="n0_quq8" name="n0" xy="0,0" size="140,140" type="rect" lineSize="0" corner="20"/>
+    <loader id="n1_quq8" name="itemicon" xy="0,0" size="140,140" url="ui://isxx5ak7slfi9j" fill="scale"/>
+  </displayList>
+</component>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="291,136" pivot="0.5,0.5" anchor="true">
+  <controller name="state" pages="0,,1," selected="0">
+    <remark page="0" value="体力"/>
+    <remark page="1" value="金币"/>
+  </controller>
+  <displayList>
+    <image id="n3_xsvo" name="n3" src="xsvo8a" fileName="_shareasset/体力.png" xy="84,-45" size="131,160" aspect="true"/>
+    <image id="n4_xsvo" name="n4" src="xsvo8a" fileName="_shareasset/体力.png" xy="228,-24" size="102,125" aspect="true"/>
+    <image id="n5_xsvo" name="n5" src="xsvo8a" fileName="_shareasset/体力.png" xy="-28,-6" size="90,110" aspect="true"/>
+  </displayList>
+</component>

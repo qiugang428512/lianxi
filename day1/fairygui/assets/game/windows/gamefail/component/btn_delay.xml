@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="314,106" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <controller name="c1" pages="0,,1," selected="1"/>
+  <displayList>
+    <image id="n3_seb1" name="n3" src="vrec74" fileName="_shareasset/圆角矩形5.png" xy="0,-2"/>
+    <image id="n5_fz7w" name="n5" src="fz7w7e" fileName="_shareasset/延长60秒.png" xy="32,27"/>
+    <image id="n7_np2a" name="n7" src="np2abx" fileName="_shareasset/shareicon.png" xy="254,24">
+      <gearDisplay controller="c1" pages="0"/>
+    </image>
+    <image id="n8_np2a" name="n8" src="e0dy5d" fileName="_shareasset/形状1拷贝2.png" xy="247,31">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+  </displayList>
+  <Button downEffect="scale" downEffectValue="1.10"/>
+</component>

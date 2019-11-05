@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="250,703">
+  <displayList>
+    <graph id="n7_np2a" name="circle1" xy="125,578" pivot="0.5,0.5" anchor="true" size="150,150" type="eclipse"/>
+    <graph id="n8_np2a" name="circle2" xy="125,125" pivot="0.5,0.5" anchor="true" size="150,150" type="eclipse"/>
+  </displayList>
+</component>

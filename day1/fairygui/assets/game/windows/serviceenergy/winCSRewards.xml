@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="720,1280" designImage="ui://isxx5ak7k97h7i">
+  <displayList>
+    <component id="n35_quq8" name="btn_close" src="seb11o" fileName="_sharecomponent/btn_close.xml" xy="314,904"/>
+    <image id="n36_k97h" name="n36" src="e0dy47" fileName="_shareasset/圆角矩形9.png" xy="50,93" size="623,794"/>
+    <image id="n37_k97h" name="n37" src="k97h7p" fileName="windows/serviceenergy/asset/图层698.png" xy="99,50"/>
+    <image id="n38_k97h" name="n38" src="k97h7o" fileName="windows/serviceenergy/asset/去客服免费领体力.png" xy="168,62" size="372,52" aspect="true"/>
+    <image id="n39_k97h" name="n39" src="k97h7j" fileName="windows/serviceenergy/asset/圆角矩形9拷贝9.png" xy="81,181" size="560,306"/>
+    <image id="n40_k97h" name="n40" src="k97h7j" fileName="windows/serviceenergy/asset/圆角矩形9拷贝9.png" xy="81,506" size="560,348"/>
+    <text id="n41_k97h" name="n41" xy="92,191" size="166,48" font="Microsoft YaHei" fontSize="33" color="#0033cc" vAlign="middle" bold="true" text="1.先点这里"/>
+    <image id="n42_k97h" name="n42" src="k97h7l" fileName="windows/serviceenergy/asset/Previous拷贝.png" xy="307,217"/>
+    <component id="n43_k97h" name="btn_Start" src="k97h7q" fileName="windows/serviceenergy/component/goservice.xml" xy="208,355"/>
+    <text id="n44_k97h" name="n44" xy="98,511" size="178,48" font="Microsoft YaHei" fontSize="33" color="#0033cc" vAlign="middle" letterSpacing="2" bold="true" text="2.再点这里"/>
+    <image id="n45_k97h" name="n45" src="k97h7k" fileName="windows/serviceenergy/asset/组36.png" xy="176,577"/>
+  </displayList>
+  <transition name="t0"/>
+</component>

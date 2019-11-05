@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="75,80">
+  <displayList>
+    <image id="n25_quq8" name="n25" src="quq86n" fileName="lobby/asset/圆角矩形7.png" xy="0,0" size="72,80"/>
+    <image id="n26_quq8" name="n26" src="quq86o" fileName="_shareasset/形状6.png" xy="16,10" size="36,52" aspect="true"/>
+  </displayList>
+</component>

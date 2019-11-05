@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="720,1280" designImage="ui://isxx5ak7e0dy3w">
+  <displayList>
+    <image id="n10_xsvo" name="n10" src="xsvo8g" fileName="_shareasset/图层701.png" xy="359,535" pivot="0.5,0.5" anchor="true"/>
+    <image id="n6_xsvo" name="n6" src="quq85v" fileName="_shareasset/组15.png" xy="124,147" size="471,96"/>
+    <image id="n1_e0dy" name="n1" src="e0dy3y" fileName="_shareasset/图层 4.png" xy="201,415" size="324,266" aspect="true"/>
+    <component id="n3_e0dy" name="n3" src="xsvo8h" fileName="_shareasset/btn_yellowgetreward.xml" xy="213,720"/>
+    <image id="n7_xsvo" name="n7" src="xsvo8d" fileName="windows/treasurebox/asset/字拷贝3.png" xy="213,132"/>
+    <image id="n8_xsvo" name="n8" src="xsvo8e" fileName="_shareasset/多边形1拷贝5.png" xy="124,375"/>
+    <component id="n9_xsvo" name="n9" src="evk28r" fileName="windows/treasurebox/component/com_box_close.xml" xy="279,855"/>
+    <text id="n12_np2a" name="n2" xy="194,309" size="349,46" visible="false" font="SimHei" fontSize="42" color="#ffffff" bold="true" text="开启宝箱获得奖励"/>
+  </displayList>
+  <transition name="t0" autoPlay="true" autoPlayRepeat="-1">
+    <item time="0" type="Rotation" target="n10_xsvo" tween="true" startValue="0" endValue="360" duration="192" ease="Linear"/>
+    <item time="192" type="Rotation" target="n10_xsvo" tween="true" startValue="360" ease="Linear"/>
+  </transition>
+  <transition name="t1">
+    <item time="0" type="Visible" target="n9_xsvo" value="false"/>
+    <item time="72" type="Visible" target="n9_xsvo" value="true"/>
+  </transition>
+</component>

@@ -1,0 +1,16 @@
+{
+	"binaryFormat":true,
+	"codeGeneration":{
+		"classNamePrefix":"",
+		"codePath":"D:\\WORKING\\weixin_xiaoyouxi\\xiaochengxu\\找不同\\code\\client\\src\\game\\view\\fui",
+		"codeType":"TS-2",
+		"getMemberByName":false,
+		"ignoreNoname":false,
+		"memberNamePrefix":"",
+		"packageName":""
+	},
+	"compressDesc":false,
+	"fileExtension":"obj",
+	"packageCount":2,
+	"path":"D:\\WORKING\\weixin_xiaoyouxi\\xiaochengxu\\yumoon_tiny_game\\Engine\\sample\\client\\src\\game\\view\\fui"
+}

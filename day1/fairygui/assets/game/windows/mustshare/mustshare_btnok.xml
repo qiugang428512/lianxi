@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="314,110">
+  <displayList>
+    <image id="n13_mfc0" name="n13" src="e0dy4s" fileName="_shareasset/组16拷贝.png" xy="0,0"/>
+    <text id="n14_mfc0" name="n14" xy="62,23" size="113,66" fontSize="53" color="#ffffff" bold="true" strokeColor="#61510b" text="解锁"/>
+    <image id="n15_kjrv" name="n15" src="xsvo88" fileName="_shareasset/形状3332.png" xy="203,32"/>
+  </displayList>
+</component>

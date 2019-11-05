@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="720,780">
+  <displayList>
+    <image id="n1_s4ot" name="n1" src="s4otau" fileName="gameover/asset/矩形749.png" xy="179,-2" size="364,1128" group="n6_s4ot" alpha="0.5"/>
+    <image id="n2_s4ot" name="n2" src="s4otau" fileName="gameover/asset/矩形749.png" xy="209,-103" size="364,1128" group="n6_s4ot" alpha="0.5" rotation="35"/>
+    <image id="n3_s4ot" name="n3" src="s4otau" fileName="gameover/asset/矩形749.png" xy="215,104" size="364,1128" group="n6_s4ot" alpha="0.5" rotation="-35"/>
+    <image id="n4_s4ot" name="n4" src="s4otau" fileName="gameover/asset/矩形749.png" xy="296,171" size="364,1128" group="n6_s4ot" alpha="0.5" rotation="-70"/>
+    <image id="n5_s4ot" name="n5" src="s4otau" fileName="gameover/asset/矩形749.png" xy="297,-173" size="364,1128" group="n6_s4ot" alpha="0.5" rotation="70"/>
+    <image id="n7_s4ot" name="n7" src="s4otau" fileName="gameover/asset/矩形749.png" xy="406,-178" size="364,1128" group="n6_s4ot" alpha="0.5" rotation="105"/>
+    <image id="n8_s4ot" name="n8" src="s4otau" fileName="gameover/asset/矩形749.png" xy="408,174" size="364,1128" group="n6_s4ot" alpha="0.5" rotation="-105"/>
+    <group id="n6_s4ot" name="n6" xy="179,-178" size="593,1480"/>
+  </displayList>
+</component>

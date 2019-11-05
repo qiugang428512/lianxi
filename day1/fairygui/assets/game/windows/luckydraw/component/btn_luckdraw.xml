@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="314,110" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver,4,noNumber" selected="0"/>
+  <controller name="state" pages="0,免费,1,视频,2,分享" selected="2"/>
+  <displayList>
+    <image id="n3_edsr" name="n3" src="xsvo8b" fileName="_shareasset/图层718.png" xy="0,0"/>
+    <image id="n2_fz7w" name="n2" src="fz7w7h" fileName="windows/luckydraw/asset/免费抽奖.png" xy="56,27">
+      <gearDisplay controller="state" pages="0"/>
+      <gearXY controller="state" pages="1" values="86,27" default="56,27"/>
+    </image>
+    <image id="n4_pvpq" name="n4" src="xsvo85" fileName="_shareasset/图层680.png" xy="190,32">
+      <gearDisplay controller="state" pages="1"/>
+    </image>
+    <image id="n5_np2a" name="n5" src="np2ac4" fileName="windows/luckydraw/asset/抽奖.png" xy="68,29">
+      <gearDisplay controller="state" pages="1"/>
+    </image>
+    <image id="n6_np2a" name="n6" src="np2ac4" fileName="windows/luckydraw/asset/抽奖.png" xy="67,29">
+      <gearDisplay controller="state" pages="2"/>
+    </image>
+    <image id="n8_np2a" name="n8" src="np2abx" fileName="_shareasset/shareicon.png" xy="186,28">
+      <gearDisplay controller="state" pages="2"/>
+    </image>
+  </displayList>
+  <Button downEffect="scale" downEffectValue="1.10"/>
+</component>

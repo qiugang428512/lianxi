@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="720,1280" designImage="ui://isxx5ak7e0dy59">
+  <displayList>
+    <image id="n0_e0dy" name="n0" src="e0dy47" fileName="_shareasset/圆角矩形9.png" xy="50,326" size="622,551" group="n9_bxho"/>
+    <image id="n8_xsvo" name="n8" src="e0dy58" fileName="_shareasset/图层41拷贝.png" xy="120,280" size="480,108" group="n9_bxho"/>
+    <image id="n2_e0dy" name="n2" src="e0dy5b" fileName="windows/energyover/asset/体力用完啦.png" xy="223,290" size="273,60" group="n9_bxho" aspect="true"/>
+    <component id="n3_e0dy" name="btn_close" src="e0dy5i" fileName="windows/energyover/asset/btn_energy_close.xml" xy="313,905" group="n9_bxho" aspect="true"/>
+    <text id="n5_e0dy" name="txt_tips" xy="51,671" size="619,50" group="n9_bxho" font="Microsoft YaHei" fontSize="35" color="#3b3e87" align="center" vAlign="middle" autoSize="none" text="还需要0:20分钟恢复一点体力"/>
+    <component id="n6_e0dy" name="btn_get" src="e0dy5h" fileName="windows/energyover/asset/com_energy_reward.xml" xy="230,746" size="260,100" group="n9_bxho"/>
+    <image id="n7_xsvo" name="n7" src="xsvo8a" fileName="_shareasset/体力.png" xy="286,428" size="164,200" group="n9_bxho" aspect="true"/>
+    <group id="n9_bxho" name="n9" xy="50,280" size="622,719" advanced="true">
+      <relation target="" sidePair="middle-middle"/>
+    </group>
+  </displayList>
+  <relation target="" sidePair=""/>
+</component>

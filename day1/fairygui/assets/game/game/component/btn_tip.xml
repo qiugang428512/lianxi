@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="280,110" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="3"/>
+  <controller name="c1" pages="0,,1," selected="1"/>
+  <displayList>
+    <image id="n0_seb1" name="n0" src="xsvo8b" fileName="_shareasset/图层718.png" xy="0,0" size="280,110">
+      <gearDisplay controller="button" pages="0,1,2,3"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n6_xsvo" name="n6" src="xsvo86" fileName="_shareasset/提醒.png" xy="54,29">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <image id="n7_xsvo" name="n7" src="xsvo85" fileName="_shareasset/图层680.png" xy="168,32">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <image id="n9_np2a" name="n9" src="np2abl" fileName="_shareasset/lingqu.png" xy="66,26">
+      <gearDisplay controller="c1" pages="0"/>
+    </image>
+    <graph id="n10_np2a" name="redpoint" xy="257,-10" size="30,30" type="eclipse" lineSize="0" fillColor="#ffff0000"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue="1.10"/>
+</component>

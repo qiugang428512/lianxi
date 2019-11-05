@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="690,430">
+  <displayList>
+    <graph id="n5_wdvu" name="n5" xy="-4,-4" size="698,438" type="rect" lineSize="0" fillColor="#66000000" corner="20">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <component id="n3_seb1" name="imgloader" src="brav3f" fileName="game/component/com_loader.xml" xy="0,0"/>
+    <component id="n4_h5b5" name="panel" src="h5b528" fileName="game/component/com_imgpanel.xml" xy="0,0" locked="true">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+  </displayList>
+  <transition name="t0"/>
+</component>

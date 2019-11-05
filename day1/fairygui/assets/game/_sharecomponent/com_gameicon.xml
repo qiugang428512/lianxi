@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="200,200">
+  <displayList>
+    <component id="n0_ndfe" name="n0" src="ndfe9c" fileName="_sharecomponent/com_gameicon_item.xml" xy="0,0" pivot="0.5,0.5">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+  </displayList>
+  <transition name="t1">
+    <item time="0" type="Rotation" target="n0_ndfe" tween="true" startValue="0" endValue="-15" duration="5"/>
+    <item time="5" type="Rotation" target="n0_ndfe" tween="true" startValue="-15" endValue="10" duration="11"/>
+    <item time="16" type="Rotation" target="n0_ndfe" tween="true" startValue="10" endValue="0" duration="8"/>
+    <item time="24" type="Rotation" target="n0_ndfe" tween="true" startValue="0"/>
+  </transition>
+</component>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,100" pivot="0.5,0.5" anchor="true">
+  <controller name="c1" pages="0,,1,,2," selected="2"/>
+  <displayList>
+    <image id="n1_tb8a" name="n1" src="tb8a7i" fileName="game/asset/1_1 (2).png" xy="50,50" pivot="0.5,0.5" anchor="true">
+      <gearDisplay controller="c1" pages="0"/>
+    </image>
+    <image id="n2_tb8a" name="n2" src="tb8a7j" fileName="game/asset/1_2.png" xy="50,50" pivot="0.5,0.5" anchor="true">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <image id="n3_pxgu" name="n3" src="pxguaa" fileName="game/asset/1_1.png" xy="8,8">
+      <gearDisplay controller="c1" pages="2"/>
+    </image>
+  </displayList>
+</component>

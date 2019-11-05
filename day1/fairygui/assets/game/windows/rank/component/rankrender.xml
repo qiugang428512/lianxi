@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="580,128">
+  <controller name="state" exported="true" pages="0,,1," selected="0">
+    <remark page="0" value="别人"/>
+    <remark page="1" value="自己"/>
+  </controller>
+  <controller name="rank3" exported="true" pages="0,,1," selected="0">
+    <remark page="0" value="in"/>
+    <remark page="1" value="out"/>
+  </controller>
+  <displayList>
+    <image id="n0_gwdy" name="n0" src="a7c8aw" fileName="_shareasset/453.png" xy="0,0" size="580,128">
+      <gearDisplay controller="state" pages="1"/>
+    </image>
+    <image id="n2_gwdy" name="n2" src="a7c8ax" fileName="_shareasset/456.png" xy="0,0" size="580,128">
+      <gearDisplay controller="state" pages="0"/>
+    </image>
+    <loader id="n1_gwdy" name="gload_rank" xy="24,32" size="67,66" fill="scaleFree">
+      <gearDisplay controller="rank3" pages="0"/>
+    </loader>
+    <text id="n4_gwdy" name="txt_name" xy="192,42" size="206,43" font="Microsoft YaHei" fontSize="30" color="#394278" autoSize="none" text="无名玩家">
+      <gearColor controller="state" pages="0,1" values="#394278,#000000|#ffffff,#000000"/>
+    </text>
+    <text id="n5_gwdy" name="txt_score" xy="398,42" size="176,43" font="Microsoft YaHei" fontSize="30" color="#394278" autoSize="none" text="第 1 关">
+      <gearColor controller="state" pages="0,1" values="#394278,#000000|#ffffff,#000000"/>
+    </text>
+    <text id="n6_gwdy" name="txt_rank" xy="18,37" size="81,54" fontSize="40" color="#575757" align="center" vAlign="middle" autoSize="none" bold="true" text="999">
+      <gearDisplay controller="rank3" pages="1"/>
+      <gearColor controller="state" pages="1" values="#ffffff,#000000" default="#575757,#000000"/>
+    </text>
+    <component id="n7_g5sp" name="gload_head" src="pkb0ar" fileName="windows/rank/component/headicon.xml" xy="108,30"/>
+  </displayList>
+</component>

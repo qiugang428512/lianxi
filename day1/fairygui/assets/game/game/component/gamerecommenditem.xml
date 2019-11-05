@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="110,110" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <component id="n0_quq8" name="n0" src="quq870" fileName="windows/recommend/component/itemrenderpanel.xml" xy="0,0"/>
+    <image id="n1_slfi" name="n1" src="slfi9k" fileName="_shareasset/圆角矩形2拷贝4副本2.png" xy="0,0" size="110,110"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue="1.10"/>
+</component>

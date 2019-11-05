@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="198,54" pivot="0.5,0.5" extention="Button">
+  <controller name="state" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n0_u6cb" name="n0" src="e0dy3h" fileName="_shareasset/圆角矩形1.png" xy="0,0" size="198,54"/>
+    <text id="n3_ubk7" name="txt" xy="39,2" size="112,47" font="SimHei" fontSize="42" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="已满">
+      <gearDisplay controller="state" pages="0"/>
+    </text>
+    <image id="n4_e0dy" name="n4" src="e0dy3f" fileName="_shareasset/组8.png" xy="-6,-5"/>
+    <image id="n5_e0dy" name="n5" src="e0dy3e" fileName="_shareasset/圆角矩形9拷贝.png" xy="144,-6"/>
+    <text id="n6_vrec" name="txt_time" xy="5,55" size="184,38" font="Microsoft YaHei" fontSize="26" color="#ffffff" align="center" autoSize="none" bold="true" text=""/>
+    <text id="n7_yclk" name="txt2" xy="35,1" size="112,47" font="SimHei" fontSize="25" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="已满+10">
+      <gearDisplay controller="state" pages="1"/>
+    </text>
+    <text id="n8_mfc0" name="txt_min" xy="0,16" size="53,37" font="SimHei" fontSize="32" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" strokeColor="#000000" text="10">
+      <gearDisplay controller="state" pages="1"/>
+    </text>
+  </displayList>
+  <Button downEffect="scale" downEffectValue="1.10"/>
+  <transition name="t0"/>
+</component>

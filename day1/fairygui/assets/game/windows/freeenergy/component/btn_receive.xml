@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="220,96" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <controller name="state" pages="0,,1,,2," selected="2">
+    <remark page="0" value="未点击有红点"/>
+    <remark page="1" value="点击后无红点但未领取"/>
+    <remark page="2" value="领取了"/>
+  </controller>
+  <displayList>
+    <image id="n10_xsvo" name="n10" src="e0dy4s" fileName="_shareasset/组16拷贝.png" xy="0,0" size="220,96" grayed="true">
+      <gearLook controller="state" pages="2" values="1,0,1,1" default="1,0,0,1"/>
+    </image>
+    <image id="n7_e0dy" name="n7" src="e0dy3f" fileName="_shareasset/组8.png" xy="151,19" size="46,55" aspect="true" grayed="true">
+      <gearLook controller="state" pages="2" values="1,0,1,1" default="1,0,0,1"/>
+    </image>
+    <image id="n9_fz7w" name="n9" src="xsvo87" fileName="_shareasset/去领取.png" xy="27,24" size="118,45" aspect="true" grayed="true">
+      <gearLook controller="state" pages="0,2" values="1,0,0,1|1,0,1,1" default="1,0,0,1"/>
+    </image>
+    <image id="n8_e0dy" name="n8" src="e0dy4e" fileName="_shareasset/n5.png" xy="187,1" size="30,30">
+      <gearDisplay controller="state" pages="0"/>
+    </image>
+  </displayList>
+  <Button downEffect="scale" downEffectValue="1.10"/>
+</component>

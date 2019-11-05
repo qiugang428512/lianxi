@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="295,92" pivot="0.5,0.5" extention="Button">
+  <controller name="c1" pages="0,,1," selected="1"/>
+  <displayList>
+    <image id="n7_quq8" name="n7" src="e0dy4s" fileName="_shareasset/组16拷贝.png" xy="-1,-2" size="298,96"/>
+    <image id="n6_quq8" name="n6" src="xsvo87" fileName="_shareasset/去领取.png" xy="46,20" size="131,50">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <image id="n8_pvpq" name="n8" src="xsvo88" fileName="_shareasset/形状3332.png" xy="187,23">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <image id="n9_np2a" name="n9" src="np2abl" fileName="_shareasset/lingqu.png" xy="87,16">
+      <gearDisplay controller="c1" pages="0"/>
+    </image>
+  </displayList>
+  <Button downEffect="scale" downEffectValue="1.10"/>
+</component>

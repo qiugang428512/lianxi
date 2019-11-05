@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="irx2sm8q" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="7suj2" name="sceneloading.xml" path="/" exported="true"/>
+    <image id="quq83" name="001.png" path="/images/"/>
+    <image id="quq84" name="002.png" path="/images/"/>
+    <image id="k97h5" name="icon.png" path="/images/"/>
+    <image id="k97h6" name="成语中举.png" path="/images/"/>
+    <component id="cn1u7" name="com_icon.xml" path="/compents/"/>
+  </resources>
+  <publish name="loading" genCode="true"/>
+</packageDescription>

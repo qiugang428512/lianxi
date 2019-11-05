@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="720,1280" designImage="ui://isxx5ak7whiu5c" designImageAlpha="20">
+  <displayList>
+    <graph id="n8_7suj" name="n8" xy="0,0" size="720,1280" type="rect" lineSize="0" fillColor="#ffcdcefc">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <component id="n0_seb1" name="btn_gold" src="ubk7p" fileName="_sharecomponent/com_gold.xml" xy="6,136" group="n10_7suj" scale="0.8,0.8"/>
+    <text id="n1_seb1" name="txt_level" xy="545,143" size="147,38" group="n10_7suj" font="Microsoft YaHei" fontSize="26" color="#6566cd" align="right" vAlign="middle" autoSize="none" bold="true" text="关卡1"/>
+    <text id="n2_seb1" name="txt_time" xy="259,73" pivot="0.5,0.5" size="223,69" group="n10_7suj" font="Microsoft YaHei" fontSize="50" color="#4849b0" align="center" autoSize="none" bold="true" text="01:20"/>
+    <component id="n6_seb1" name="btn_tip" src="seb11d" fileName="game/component/btn_tip.xml" xy="230,1093" group="n10_7suj" scale="0.9,0.9"/>
+    <component id="n7_seb1" name="rightcnt" src="seb11e" fileName="game/component/com_progress.xml" xy="231,140" group="n10_7suj"/>
+    <component id="n9_7suj" name="btn_back" src="whiu5d" fileName="game/component/gamebtn_back.xml" xy="12,54" size="93,93" group="n10_7suj" aspect="true" scale="0.8,0.8"/>
+    <component id="n12_nqrs" name="btn_share" src="nqrsay" fileName="game/component/btn_gameshare.xml" xy="263,1192" group="n10_7suj" scale="0.7,0.7" visible="false"/>
+    <component id="n3_seb1" name="word_img1" src="seb11b" fileName="game/component/com_img1.xml" xy="21,197" group="n10_7suj"/>
+    <component id="n5_seb1" name="word_img2" src="seb11b" fileName="game/component/com_img1.xml" xy="21,647" group="n10_7suj"/>
+    <graph id="n17_np2a" name="n17" xy="534,1109" size="175,82" group="n19_np2a" type="rect" lineSize="3" lineColor="#ff9c9dd9" corner="15"/>
+    <component id="n14_nqrs" name="linkicon_1" src="np2ac2" fileName="game/component/gamerecommenditem.xml" xy="527,1096" group="n19_np2a" aspect="true" scale="0.6,0.6"/>
+    <text id="n18_np2a" name="n18" xy="634,1120" size="56,66" group="n19_np2a" font="Microsoft YaHei" fontSize="24" autoSize="none" text="好友&#xA;在玩"/>
+    <group id="n19_np2a" name="n19" xy="527,1096" size="183,110" group="n10_7suj" collapsed="true"/>
+    <group id="n10_7suj" name="n10" xy="6,54" size="705,1248" advanced="true" collapsed="true">
+      <relation target="" sidePair="center-center,top-top"/>
+    </group>
+    <component id="n15_np2a" name="guidemask" src="np2abs" fileName="_sharecomponent/guidemask.xml" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <text id="n11_arz3" name="txt_guidetips" xy="30,621" size="682,44" font="Microsoft YaHei" fontSize="32" color="#ffffff" align="center" autoSize="none" bold="true" strokeColor="#000000" text="这是第1个不同,请点击手指引导的位置">
+      <relation target="" sidePair="center-center,top-top"/>
+    </text>
+  </displayList>
+</component>

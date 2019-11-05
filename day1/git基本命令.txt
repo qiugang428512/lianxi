@@ -1,2 +1,14 @@
+第一部分：获取GitHub上的资源并上传
 cd  + 盘
-git + clone + 地址
+git + clone + 地址(克隆到具体盘)
+在本地编码后
+git add + 添加后的文件名
+git + status 追踪文件（可省略）
+git + commit -m "描述"
+git + push
+
+第二部分：本地建立仓库
+
+mkdir + 文件名
+
+git + init

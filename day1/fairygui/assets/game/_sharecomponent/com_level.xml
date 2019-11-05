@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="314,434">
+  <displayList>
+    <loader id="n13_91wl" name="icon_img" xy="-29,0" size="369,252" url="ui://isxx5ak77suj39" align="center" vAlign="middle" fill="scaleMatchWidth"/>
+    <loader id="n15_91wl" name="levelname_img" xy="52,253" size="172,50" group="n14_91wl" align="center" vAlign="middle" fill="scaleMatchWidth"/>
+    <loader id="n16_91wl" name="levelname_level" xy="223,258" size="50,38" group="n14_91wl" align="center" vAlign="middle" fill="scaleMatchHeight"/>
+    <image id="n9_ubk7" name="title_text" src="e0dy3m" fileName="_shareasset/不屈累铁1.png" xy="57,256" size="199,42" group="n14_91wl" aspect="true" visible="false"/>
+    <group id="n14_91wl" name="n14" xy="52,253" size="221,50" collapsed="true"/>
+    <text id="n11_ubk7" name="n11" xy="22,388" size="271,38" font="Microsoft YaHei" fontSize="26" color="#ffffff" align="center" vAlign="middle" bold="true" strokeColor="#000000" text="还差2关晋级菜鸟铸铁2"/>
+    <component id="n18_91wl" name="stars_group" src="91wl83" fileName="_sharecomponent/com_level_stars_group.xml" xy="0,316"/>
+  </displayList>
+</component>

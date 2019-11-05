@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="48,48" extention="Button">
+  <displayList>
+    <image id="n17_np2a" name="n17" src="np2abj" fileName="windows/getreward/asset/guanbi.png" xy="0,0"/>
+  </displayList>
+  <Button/>
+</component>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="720,1280" designImage="ui://isxx5ak7quq85q">
+  <displayList>
+    <graph id="n0_quq8" name="n0" xy="1,-1" size="720,1280" type="rect" lineSize="0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <component id="n1_quq8" name="back_game" src="quq85r" fileName="windows/moregame/component/com_back_game.xml" xy="15,101"/>
+    <image id="n5_quq8" name="n5" src="quq85o" fileName="windows/moregame/asset/形状 11.png" xy="248,198" aspect="true"/>
+    <list id="n6_quq8" name="game_list" xy="2,332" size="720,673" layout="flow_hz" overflow="scroll" margin="15,0,0,0" lineGap="30" colGap="35" lineItemCount="4" defaultItem="ui://isxx5ak7quq85s" align="center">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n8_slfi" name="n8" src="quq85o" fileName="windows/moregame/asset/形状 11.png" xy="204,198" aspect="true"/>
+    <image id="n9_slfi" name="n9" src="quq85o" fileName="windows/moregame/asset/形状 11.png" xy="290,198" aspect="true"/>
+    <image id="n10_slfi" name="n10" src="quq85o" fileName="windows/moregame/asset/形状 11.png" xy="334,198" aspect="true"/>
+    <image id="n11_eqo1" name="n11" src="eqo1a8" fileName="windows/moregame/asset/renmenyouxi.png" xy="73,203"/>
+  </displayList>
+</component>

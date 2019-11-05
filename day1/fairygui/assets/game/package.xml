@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="isxx5ak7" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="u6cb0" name="lobbyscene.xml" path="/lobby/" exported="true"/>
+    <component id="u6cb1" name="com_energy.xml" path="/_sharecomponent/"/>
+    <image id="u6cbg" name="等级.jpg" path="/__示意图/"/>
+    <image id="u6cbh" name="获取体力弹窗.jpg" path="/__示意图/"/>
+    <image id="u6cbi" name="结算界面.jpg" path="/__示意图/"/>
+    <image id="u6cbj" name="领取奖励.jpg" path="/__示意图/"/>
+    <image id="u6cbk" name="设置界面.jpg" path="/__示意图/"/>
+    <image id="u6cbl" name="首页.jpg" path="/__示意图/"/>
+    <image id="u6cbm" name="游戏界面.jpg" path="/__示意图/"/>
+    <image id="jdgbn" name="+.png" path="/_shareasset/"/>
+    <image id="jdgbo" name="图层 195.png" path="/_shareasset/"/>
+    <component id="ubk7p" name="com_gold.xml" path="/_sharecomponent/"/>
+    <image id="ubk7q" name="组 2187.png" path="/_shareasset/"/>
+    <image id="ubk7r" name="组 5.png" path="/_shareasset/"/>
+    <image id="ubk7s" name="n7.png" path="/lobby/asset/"/>
+    <component id="ubk7t" name="btn_start.xml" path="/lobby/component/"/>
+    <image id="ubk7u" name="anniu.png" path="/_shareasset/"/>
+    <image id="ubk7v" name="tb__001rumen.png" path="/lobby/asset/"/>
+    <image id="ubk7w" name="n7(1).png" path="/_shareasset/"/>
+    <component id="ubk7x" name="btn_rank.xml" path="/lobby/component/"/>
+    <component id="ubk7y" name="btn_setting.xml" path="/lobby/component/"/>
+    <component id="ubk7z" name="btn_gift.xml" path="/lobby/component/"/>
+    <component id="ubk710" name="btn_img.xml" path="/lobby/component/"/>
+    <image id="ubk711" name="11.png" path="/_shareasset/"/>
+    <image id="ubk712" name="组 8.png" path="/lobby/asset/"/>
+    <image id="ubk713" name="gift.png" path="/lobby/asset/"/>
+    <component id="ubk716" name="com_title.xml" path="/lobby/component/"/>
+    <component id="ubk717" name="winfreeenergy.xml" path="/windows/freeenergy/" exported="true"/>
+    <component id="ubk718" name="winrank.xml" path="/windows/rank/" exported="true"/>
+    <component id="seb119" name="gamescene.xml" path="/game/" exported="true"/>
+    <component id="seb11a" name="gamewinscene.xml" path="/gameover/" exported="true"/>
+    <component id="seb11b" name="com_img1.xml" path="/game/component/"/>
+    <component id="seb11d" name="btn_tip.xml" path="/game/component/"/>
+    <component id="seb11e" name="com_progress.xml" path="/game/component/"/>
+    <component id="seb11f" name="com_level.xml" path="/_sharecomponent/"/>
+    <component id="seb11h" name="btn_back_home.xml" path="/_sharecomponent/"/>
+    <component id="seb11i" name="btn_next.xml" path="/gameover/component/"/>
+    <component id="seb11j" name="gameover_progress.xml" path="/gameover/component/"/>
+    <image id="seb11k" name="n0.png" path="/gameover/asset/"/>
+    <image id="seb11l" name="n1.png" path="/gameover/asset/"/>
+    <component id="seb11n" name="winlevel.xml" path="/windows/level/" exported="true"/>
+    <component id="seb11o" name="btn_close.xml" path="/_sharecomponent/"/>
+    <component id="seb11p" name="item_level.xml" path="/windows/level/component/"/>
+    <image id="seb11r" name="n2.png" path="/windows/level/asset/"/>
+    <image id="seb11s" name="等级1.jpg" path="/__示意图/"/>
+    <image id="seb11t" name="等级2.jpg" path="/__示意图/"/>
+    <component id="seb11u" name="com_addmy.xml" path="/windows/freeenergy/component/"/>
+    <component id="seb11v" name="btn_receive.xml" path="/windows/freeenergy/component/"/>
+    <component id="7suj1w" name="shellscene.xml" path="/shell/" exported="true"/>
+    <image id="7suj1x" name="抽奖.jpg" path="/__示意图/"/>
+    <component id="7suj1y" name="winluckydraw.xml" path="/windows/luckydraw/" exported="true"/>
+    <component id="7suj20" name="itemreward.xml" path="/windows/luckydraw/component/"/>
+    <component id="7suj21" name="winsetting.xml" path="/windows/setting/" exported="true"/>
+    <component id="7suj22" name="btn_back.xml" path="/_sharecomponent/"/>
+    <component id="7suj23" name="com_switch.xml" path="/windows/setting/component/"/>
+    <component id="7suj25" name="btn_level_close.xml" path="/windows/level/component/"/>
+    <component id="7suj26" name="btn_back_home.xml" path="/gameover/component/"/>
+    <component id="7suj27" name="com_progress.xml" path="/gameover/component/"/>
+    <component id="h5b528" name="com_imgpanel.xml" path="/game/component/"/>
+    <component id="h5b529" name="com_imgright.xml" path="/game/component/" exported="true"/>
+    <component id="h5b52a" name="com_imgwrong.xml" path="/game/component/" exported="true"/>
+    <component id="h5b52b" name="wingamefail.xml" path="/windows/gamefail/" exported="true"/>
+    <component id="h5b52d" name="com_img2.xml" path="/game/component/"/>
+    <component id="h5b52f" name="btn_restart.xml" path="/windows/gamefail/component/"/>
+    <component id="h5b52i" name="btn_delay.xml" path="/windows/gamefail/component/"/>
+    <component id="h5b52j" name="btn_back_homepuple.xml" path="/windows/gamefail/component/"/>
+    <component id="7suj2b" name="com_list.xml" path="/windows/luckydraw/component/"/>
+    <component id="7suj2c" name="com_img2.xml" path="/game/component/"/>
+    <component id="7suj2v" name="winmoregame.xml" path="/windows/moregame/" exported="true"/>
+    <component id="7suj2w" name="winpromotionreward.xml" path="/windows/promotionreward/" exported="true"/>
+    <image id="7suj2y" name="获得免费体力.jpg" path="/__示意图/"/>
+    <image id="7suj2z" name="称号升级.jpg" path="/__示意图/"/>
+    <image id="7suj30" name="圆角矩形 9.png" path="/windows/promotionreward/asset/" scale="9grid" scale9grid="42,43,84,86"/>
+    <image id="7suj31" name="组 13.png" path="/windows/promotionreward/asset/"/>
+    <image id="7suj32" name="不屈累铁 1.png" path="/windows/promotionreward/asset/"/>
+    <image id="7suj33" name="称号升级.jpg" path="/windows/promotionreward/asset/"/>
+    <image id="7suj34" name="确定.png" path="/windows/promotionreward/asset/"/>
+    <image id="7suj35" name="升段奖励.png" path="/windows/promotionreward/asset/"/>
+    <image id="7suj36" name="图层 39.png" path="/windows/promotionreward/asset/"/>
+    <image id="7suj37" name="图层 44.png" path="/windows/promotionreward/asset/"/>
+    <image id="7suj38" name="圆角矩形 1 拷贝.png" path="/windows/promotionreward/asset/"/>
+    <image id="7suj39" name="1.1.png" path="/_shareasset/"/>
+    <image id="7suj3a" name="椭圆4.png" path="/_shareasset/"/>
+    <image id="7suj3b" name="圆角矩形1拷贝2.png" path="/_shareasset/" scale="9grid" scale9grid="49,39,197,12"/>
+    <component id="7suj3c" name="btn_confirm.xml" path="/windows/promotionreward/component/"/>
+    <component id="7suj3d" name="setting.xml" path="/windows/setting/"/>
+    <component id="brav3e" name="com_wrongnum.xml" path="/game/component/" exported="true"/>
+    <component id="brav3f" name="com_loader.xml" path="/game/component/"/>
+    <image id="e0dy3e" name="圆角矩形9拷贝.png" path="/_shareasset/"/>
+    <image id="e0dy3f" name="组8.png" path="/_shareasset/"/>
+    <image id="e0dy3g" name="img_energy.png" path="/_exportasset/" exported="true"/>
+    <image id="e0dy3h" name="圆角矩形1.png" path="/_shareasset/" scale="9grid" scale9grid="50,14,100,17"/>
+    <image id="e0dy3i" name="1.png" path="/__示意图/"/>
+    <image id="e0dy3j" name="比谁找得快.png" path="/lobby/asset/"/>
+    <image id="e0dy3k" name="图层3.png" path="/lobby/asset/"/>
+    <image id="e0dy3l" name="图层33.png" path="/lobby/asset/"/>
+    <image id="e0dy3m" name="不屈累铁1.png" path="/_shareasset/"/>
+    <image id="e0dy3n" name="FavouritesMark拷贝2.png" path="/_shareasset/"/>
+    <image id="e0dy3o" name="组2.png" path="/lobby/asset/"/>
+    <image id="e0dy3p" name="圆角矩形4.png" path="/_shareasset/"/>
+    <image id="e0dy3q" name="设置.png" path="/lobby/asset/"/>
+    <image id="e0dy3r" name="图片.png" path="/lobby/asset/"/>
+    <image id="e0dy3s" name="奖杯.png" path="/lobby/asset/"/>
+    <image id="e0dy3t" name="礼物.png" path="/lobby/asset/"/>
+    <component id="e0dy3u" name="btn_lucky.xml" path="/_sharecomponent/"/>
+    <image id="e0dy3w" name="获得宝箱.jpg" path="/__示意图/"/>
+    <component id="e0dy3x" name="wintreasurebox.xml" path="/windows/treasurebox/" exported="true"/>
+    <image id="e0dy3y" name="图层 4.png" path="/_shareasset/"/>
+    <image id="e0dy3z" name="组 1.png" path="/windows/treasurebox/asset/"/>
+    <image id="e0dy40" name="领取礼包.png" path="/windows/treasurebox/asset/"/>
+    <image id="e0dy41" name="圆角矩形 9 拷贝 2.png" path="/windows/level/asset/"/>
+    <image id="e0dy42" name="圆角矩形 9 拷贝 7.png" path="/windows/level/asset/"/>
+    <image id="e0dy43" name="圆角矩形 10 拷贝 2.png" path="/windows/level/asset/" scale="9grid" scale9grid="24,19,12,21"/>
+    <image id="e0dy44" name="组 9 拷贝.png" path="/windows/level/asset/"/>
+    <image id="e0dy45" name="荣耀之路.png" path="/windows/level/asset/"/>
+    <image id="e0dy46" name="效果图.png" path="/__示意图/"/>
+    <image id="e0dy47" name="圆角矩形9.png" path="/_shareasset/" scale="9grid" scale9grid="29,46,58,92"/>
+    <image id="e0dy48" name="组17.png" path="/_shareasset/"/>
+    <image id="e0dy49" name="图层39.png" path="/windows/freeenergy/asset/"/>
+    <image id="e0dy4a" name="图层40.png" path="/windows/freeenergy/asset/"/>
+    <image id="e0dy4b" name="椭圆2拷贝.png" path="/windows/freeenergy/asset/"/>
+    <image id="e0dy4c" name="获得免费体力.png" path="/windows/freeenergy/asset/"/>
+    <image id="e0dy4d" name="图层1拷贝2.png" path="/windows/freeenergy/asset/" scale="9grid" scale9grid="27,23,20,18"/>
+    <image id="e0dy4e" name="n5.png" path="/_shareasset/"/>
+    <image id="e0dy4f" name="形状7.png" path="/_shareasset/"/>
+    <component id="e0dy4g" name="com_addfloat.xml" path="/windows/freeenergy/component/"/>
+    <component id="e0dy4h" name="com_service.xml" path="/windows/freeenergy/component/"/>
+    <image id="e0dy4i" name="圆角矩形10拷贝3.png" path="/windows/level/asset/" scale="9grid" scale9grid="18,23,36,26"/>
+    <image id="e0dy4j" name="组13.png" path="/_shareasset/"/>
+    <image id="e0dy4m" name="图层634.png" path="/__示意图/"/>
+    <image id="e0dy4n" name="圆角矩形618拷贝3.png" path="/windows/setting/asset/" scale="9grid" scale9grid="16,19,32,38"/>
+    <image id="e0dy4o" name="圆角矩形625拷贝.png" path="/windows/setting/asset/"/>
+    <image id="e0dy4p" name="椭圆626拷贝2.png" path="/windows/setting/asset/"/>
+    <image id="e0dy4q" name="圆角矩形625拷贝(1).png" path="/windows/setting/asset/" scale="9grid" scale9grid="25,11,50,22"/>
+    <image id="e0dy4r" name="返回首页拷贝.png" path="/_shareasset/"/>
+    <image id="e0dy4s" name="组16拷贝.png" path="/_shareasset/" scale="9grid" scale9grid="79,28,158,56"/>
+    <component id="e0dy4t" name="btn_moregame.xml" path="/_sharecomponent/"/>
+    <image id="e0dy4u" name="图层48.png" path="/__示意图/"/>
+    <image id="e0dy4v" name="多边形1.png" path="/windows/luckydraw/asset/" scale="9grid" scale9grid="27,22,54,14"/>
+    <image id="e0dy4w" name="矩形1拷贝2.png" path="/windows/luckydraw/asset/"/>
+    <image id="e0dy4x" name="图层46拷贝.png" path="/_shareasset/"/>
+    <image id="e0dy4y" name="圆角矩形13.png" path="/windows/luckydraw/asset/" scale="9grid" scale9grid="30,35,16,11"/>
+    <image id="e0dy4z" name="组16.png" path="/windows/luckydraw/asset/"/>
+    <image id="e0dy50" name="组19.png" path="/windows/luckydraw/asset/"/>
+    <component id="e0dy57" name="btn_luckdraw.xml" path="/windows/luckydraw/component/"/>
+    <image id="e0dy58" name="图层41拷贝.png" path="/_shareasset/" scale="9grid" scale9grid="123,28,247,38"/>
+    <image id="whiu59" name="形状6(1).png" path="/_shareasset/"/>
+    <image id="whiu5c" name="图层45.png" path="/__示意图/"/>
+    <component id="whiu5d" name="gamebtn_back.xml" path="/game/component/"/>
+    <image id="e0dy59" name="图层635.png" path="/__示意图/"/>
+    <component id="e0dy5a" name="winenergyover.xml" path="/windows/energyover/" exported="true"/>
+    <image id="e0dy5b" name="体力用完啦.png" path="/windows/energyover/asset/"/>
+    <image id="e0dy5d" name="形状1拷贝2.png" path="/_shareasset/"/>
+    <image id="e0dy5e" name="组17.png" path="/windows/energyover/asset/"/>
+    <image id="e0dy5f" name="圆角矩形634.png" path="/windows/energyover/asset/"/>
+    <image id="e0dy5g" name="组8拷贝2.png" path="/windows/energyover/asset/"/>
+    <component id="e0dy5h" name="com_energy_reward.xml" path="/windows/energyover/asset/"/>
+    <component id="e0dy5i" name="btn_energy_close.xml" path="/windows/energyover/asset/"/>
+    <component id="quq85j" name="winrecommend.xml" path="/windows/recommend/" exported="true"/>
+    <image id="quq85k" name="图层 45.png" path="/windows/recommend/asset/"/>
+    <image id="quq85l" name="图层 47.png" path="/__示意图/"/>
+    <component id="quq85m" name="recommenditem.xml" path="/windows/recommend/component/"/>
+    <image id="quq85n" name="形状 9.png" path="/windows/moregame/asset/"/>
+    <image id="quq85o" name="形状 11.png" path="/windows/moregame/asset/"/>
+    <image id="quq85p" name="返回游戏.png" path="/windows/moregame/asset/"/>
+    <image id="quq85q" name="效果图(1).png" path="/__示意图/"/>
+    <component id="quq85r" name="com_back_game.xml" path="/windows/moregame/component/"/>
+    <component id="quq85s" name="itemmoregame.xml" path="/windows/moregame/component/"/>
+    <image id="quq85t" name="图层3拷贝.png" path="/gameover/asset/"/>
+    <image id="quq85u" name="圆角矩形12拷贝.png" path="/gameover/asset/"/>
+    <image id="quq85v" name="组15.png" path="/_shareasset/" scale="9grid" scale9grid="107,19,214,31"/>
+    <image id="quq85w" name="胜利！.png" path="/gameover/asset/"/>
+    <image id="quq85x" name="3.png" path="/__示意图/"/>
+    <component id="quq85y" name="btn_more.xml" path="/_sharecomponent/"/>
+    <image id="quq85z" name="n6.png" path="/gameover/asset/"/>
+    <image id="uymj60" name="圆角矩形9.png" path="/__示意图/"/>
+    <image id="uymj61" name="组17.png" path="/__示意图/"/>
+    <component id="uymj62" name="btn_lucky.xml" path="/lobby/component/"/>
+    <image id="uymj63" name="tickmark.png" path="/game/asset/" exported="true"/>
+    <image id="uymj64" name="？拷贝.png" path="/game/asset/"/>
+    <component id="uymj65" name="com_imgdebug.xml" path="/game/component/" exported="true"/>
+    <component id="uymj66" name="guidetips.xml" path="/lobby/component/"/>
+    <component id="arz367" name="guidefinger.xml" path="/_sharecomponent/" exported="true"/>
+    <image id="arz368" name="图层46.png" path="/_shareasset/"/>
+    <component id="quq861" name="winaddfloat.xml" path="/windows/addfloat/" exported="true"/>
+    <component id="quq862" name="Button_IKnow.xml" path="/windows/addfloat/component/"/>
+    <image id="quq863" name="组 19.png" path="/windows/addfloat/asset/"/>
+    <image id="quq864" name="组 17.png" path="/windows/addfloat/asset/"/>
+    <image id="quq865" name="组 15.png" path="/windows/addfloat/asset/"/>
+    <image id="quq866" name="组 1(1).png" path="/windows/addfloat/asset/"/>
+    <component id="quq868" name="wincsrewards.xml" path="/windows/serviceenergy/" exported="true"/>
+    <image id="quq86k" name="圆角矩形9.png" path="/__示意图/"/>
+    <image id="quq86l" name="组17.png" path="/__示意图/"/>
+    <component id="quq86m" name="btn_lucky.xml" path="/lobby/component/"/>
+    <image id="quq86n" name="圆角矩形7.png" path="/lobby/asset/"/>
+    <image id="quq86o" name="形状6.png" path="/_shareasset/"/>
+    <component id="quq86p" name="btn_open.xml" path="/lobby/component/"/>
+    <component id="quq86q" name="btn_recommend_close.xml" path="/windows/recommend/component/"/>
+    <component id="quq86r" name="wingetreward.xml" path="/windows/getreward/" exported="true"/>
+    <image id="quq86s" name="组8拷贝2.png" path="/_shareasset/"/>
+    <image id="quq86t" name="圆角矩形1拷贝3.png" path="/windows/getreward/asset/"/>
+    <image id="quq86u" name="翻倍.png" path="/windows/getreward/asset/"/>
+    <image id="quq86v" name="领取.png" path="/windows/getreward/asset/"/>
+    <image id="quq86w" name="图层2拷贝.png" path="/windows/getreward/asset/"/>
+    <image id="quq86x" name="获得体力奖励.jpg" path="/__示意图/"/>
+    <component id="quq86y" name="btn_receive_reward.xml" path="/windows/getreward/component/"/>
+    <component id="quq86z" name="btn_double_receive.xml" path="/windows/getreward/component/"/>
+    <image id="vrec70" name="图层670.png" path="/windows/gamefail/asset/"/>
+    <image id="vrec71" name="图层673.png" path="/__示意图/"/>
+    <image id="vrec72" name="图层46拷贝.png" path="/windows/luckydraw/asset/"/>
+    <image id="vrec73" name="时间到！.png" path="/windows/gamefail/asset/"/>
+    <image id="vrec74" name="圆角矩形5.png" path="/_shareasset/"/>
+    <image id="vrec75" name="主页.png" path="/windows/gamefail/component/"/>
+    <image id="vrec76" name="图层17.png" path="/_shareasset/"/>
+    <component id="quq870" name="itemrenderpanel.xml" path="/windows/recommend/component/"/>
+    <component id="quq871" name="item_com.xml" path="/windows/moregame/component/"/>
+    <image id="sngs77" name="组8拷贝.png" path="/_shareasset/"/>
+    <image id="quq872" name="图层 4.png" path="/__示意图/"/>
+    <image id="l84y78" name="图层30.jpg" path="/_shareasset/" qualityOption="source" smoothing="false" atlas="alone_npot"/>
+    <image id="l84y79" name="图层30拷贝.jpg" path="/_shareasset/" qualityOption="source" smoothing="false" atlas="alone_npot"/>
+    <image id="fz7w7a" name="下一关.png" path="/_shareasset/"/>
+    <image id="fz7w7b" name="x1.png" path="/_shareasset/"/>
+    <image id="fz7w7c" name="提示.png" path="/_shareasset/"/>
+    <image id="fz7w7d" name="去领取拷贝.png" path="/_shareasset/"/>
+    <image id="fz7w7e" name="延长60秒.png" path="/_shareasset/"/>
+    <image id="fz7w7f" name="重新开始.png" path="/_shareasset/"/>
+    <image id="fz7w7g" name="更多惊喜拷贝.png" path="/windows/luckydraw/asset/"/>
+    <image id="fz7w7h" name="免费抽奖.png" path="/windows/luckydraw/asset/"/>
+    <image id="k97h7i" name="图层699.png" path="/__示意图/"/>
+    <image id="k97h7j" name="圆角矩形9拷贝9.png" path="/windows/serviceenergy/asset/" scale="9grid" scale9grid="20,19,40,38"/>
+    <image id="k97h7k" name="组36.png" path="/windows/serviceenergy/asset/"/>
+    <image id="k97h7l" name="Previous拷贝.png" path="/windows/serviceenergy/asset/"/>
+    <image id="k97h7m" name="领体力.png" path="/windows/serviceenergy/asset/"/>
+    <image id="k97h7o" name="去客服免费领体力.png" path="/windows/serviceenergy/asset/"/>
+    <image id="k97h7p" name="图层698.png" path="/windows/serviceenergy/asset/"/>
+    <component id="k97h7q" name="goservice.xml" path="/windows/serviceenergy/component/"/>
+    <image id="tb8a7i" name="1_1 (2).png" path="/game/asset/"/>
+    <image id="tb8a7j" name="1_2.png" path="/game/asset/"/>
+    <image id="tb8a7k" name="cuo.png" path="/game/asset/"/>
+    <image id="tb8a7l" name="免费抽奖.png" path="/_shareasset/"/>
+    <image id="tb8a7m" name="更多惊喜拷贝.png" path="/_shareasset/"/>
+    <component id="tb8a7n" name="com_guang.xml" path="/gameover/component/"/>
+    <image id="tb8a7o" name="bg光_01.png" path="/gameover/asset/"/>
+    <component id="cn1u7r" name="Button_Close.xml" path="/windows/serviceenergy/component/"/>
+    <component id="cn1u7s" name="csbtn.xml" path="/windows/serviceenergy/component/"/>
+    <image id="cn1u7t" name="图层0_42.png" path="/windows/serviceenergy/asset/"/>
+    <image id="cn1u7u" name="图层1.png" path="/windows/serviceenergy/asset/"/>
+    <image id="cn1u7v" name="图层1_51.png" path="/windows/serviceenergy/asset/"/>
+    <image id="cn1u7w" name="客服_12.png" path="/windows/serviceenergy/asset/"/>
+    <image id="cn1u7x" name="客服免费福利.png" path="/windows/serviceenergy/asset/"/>
+    <image id="cn1u7y" name="客服福利尺寸.jpg" path="/windows/serviceenergy/asset/"/>
+    <image id="cn1u7z" name="箭头.png" path="/windows/serviceenergy/asset/"/>
+    <image id="cn1u80" name="组145.png" path="/windows/serviceenergy/asset/"/>
+    <image id="cn1u81" name="组7.png" path="/windows/serviceenergy/asset/"/>
+    <image id="xsvo82" name="Lightbulb.png" path="/_shareasset/"/>
+    <image id="xsvo83" name="形状10.png" path="/_shareasset/"/>
+    <image id="xsvo84" name="x2.png" path="/_shareasset/"/>
+    <image id="xsvo85" name="图层680.png" path="/_shareasset/"/>
+    <image id="xsvo86" name="提醒.png" path="/_shareasset/"/>
+    <image id="xsvo87" name="去领取.png" path="/_shareasset/"/>
+    <image id="xsvo88" name="形状3332.png" path="/_shareasset/"/>
+    <image id="xsvo89" name="圆角矩形133拷贝2.png" path="/_shareasset/" scale="9grid" scale9grid="74,40,145,6"/>
+    <image id="xsvo8a" name="体力.png" path="/_shareasset/"/>
+    <image id="xsvo8b" name="图层718.png" path="/_shareasset/" scale="9grid" scale9grid="136,27,28,56"/>
+    <image id="xsvo8c" name="圆角矩形9拷贝9.png" path="/windows/freeenergy/asset/" scale="9grid" scale9grid="14,26,28,52"/>
+    <image id="xsvo8d" name="字拷贝3.png" path="/windows/treasurebox/asset/"/>
+    <image id="xsvo8e" name="多边形1拷贝5.png" path="/_shareasset/"/>
+    <image id="xsvo8f" name="放弃领取.png" path="/_shareasset/"/>
+    <image id="xsvo8g" name="图层701.png" path="/_shareasset/"/>
+    <component id="xsvo8h" name="btn_yellowgetreward.xml" path="/_shareasset/"/>
+    <image id="xsvo8i" name="字拷贝4.png" path="/windows/treasurebox/asset/"/>
+    <component id="xsvo8j" name="wingetreward_energy.xml" path="/windows/getreward/component/"/>
+    <image id="xsvo8k" name="椭圆6.png" path="/windows/promotionreward/asset/"/>
+    <component id="xsvo8l" name="btnclose_levelup.xml" path="/_sharecomponent/"/>
+    <image id="xsvo8m" name="114.png" path="/windows/level/asset/"/>
+    <image id="xsvo8n" name="111.png" path="/windows/level/asset/" scale="9grid" scale9grid="19,26,38,52"/>
+    <image id="xsvo8o" name="112.png" path="/windows/level/asset/" scale="9grid" scale9grid="19,26,38,52"/>
+    <image id="xsvo8p" name="113.png" path="/windows/level/asset/" scale="9grid" scale9grid="19,26,38,52"/>
+    <image id="xsvo8q" name="1472.png" path="/windows/level/asset/"/>
+    <component id="91wl82" name="com_level_stars.xml" path="/_sharecomponent/" exported="true"/>
+    <component id="91wl83" name="com_level_stars_group.xml" path="/_sharecomponent/"/>
+    <component id="evk28r" name="com_box_close.xml" path="/windows/treasurebox/component/"/>
+    <image id="evk28s" name="图层718.png" path="/__示意图/"/>
+    <image id="evk28u" name="组18.png" path="/windows/luckydraw/asset/"/>
+    <image id="evk28v" name="多边形1(1).png" path="/windows/luckydraw/asset/" scale="9grid" scale9grid="27,30,54,3"/>
+    <image id="evk28w" name="矩形1拷贝.png" path="/windows/luckydraw/asset/"/>
+    <image id="evk28x" name="图层47.png" path="/windows/luckydraw/asset/"/>
+    <image id="evk28y" name="圆角矩形618拷贝3.png" path="/windows/luckydraw/asset/"/>
+    <image id="evk28z" name="圆角矩形625拷贝2.png" path="/windows/luckydraw/asset/"/>
+    <image id="evk290" name="圆角矩形618拷贝3(1).png" path="/windows/setting/asset/" scale="9grid" scale9grid="14,19,28,38"/>
+    <image id="evk291" name="圆角矩形625拷贝2.png" path="/windows/setting/asset/"/>
+    <image id="evk292" name="图层714.png" path="/__示意图/"/>
+    <image id="ndfe93" name="组 2.png" path="/windows/luckydraw/asset/"/>
+    <image id="ndfe94" name="组 6 拷贝 2.png" path="/windows/luckydraw/asset/"/>
+    <image id="ndfe95" name="组 6 拷贝.png" path="/windows/luckydraw/asset/"/>
+    <image id="ndfe96" name="组 6.png" path="/windows/luckydraw/asset/"/>
+    <image id="ndfe97" name="组 7 拷贝 2.png" path="/windows/luckydraw/asset/"/>
+    <image id="ndfe98" name="组 7 拷贝.png" path="/windows/luckydraw/asset/"/>
+    <image id="ndfe99" name="组 7.png" path="/windows/luckydraw/asset/"/>
+    <image id="ndfe9a" name="图层 1 拷贝 3.png" path="/windows/luckydraw/asset/"/>
+    <image id="ndfe9b" name="组 2 拷贝.png" path="/windows/luckydraw/asset/"/>
+    <component id="ndfe9c" name="com_gameicon_item.xml" path="/_sharecomponent/"/>
+    <component id="ndfe9d" name="com_gameicon.xml" path="/_sharecomponent/" exported="true"/>
+    <component id="ndfe9e" name="com_icon_ver.xml" path="/_sharecomponent/" exported="true"/>
+    <image id="ndfe9f" name="免费抽奖.png" path="/windows/luckydraw/"/>
+    <image id="ndfe9g" name="更多惊喜拷贝.png" path="/windows/luckydraw/"/>
+    <image id="l4929h" name="图层30紫.jpg" path="/_shareasset/" qualityOption="source" smoothing="false" atlas="alone_npot"/>
+    <image id="slfi9i" name="icon1.png" path="/windows/moregame/"/>
+    <image id="slfi9j" name="icon1.png" path="/_shareasset/"/>
+    <image id="slfi9k" name="圆角矩形2拷贝4副本2.png" path="/_shareasset/"/>
+    <image id="slfi9l" name="字拷贝3 (1).png" path="/windows/recommend/asset/"/>
+    <component id="n6f69m" name="winofflinebox.xml" path="/windows/treasurebox/" exported="true"/>
+    <component id="bxho9n" name="wincollectiongame.xml" path="/windows/collectiongame/" exported="true"/>
+    <image id="bxho9o" name="WJ`~{N4WAFGKQJPUQ6}PCNB.png" path="/__示意图/"/>
+    <image id="bxho9p" name="KW]1H8ESH)~182O9$2_9IDD.png" path="/__示意图/"/>
+    <image id="bxho9q" name="下一步.png" path="/windows/collectiongame/asset/"/>
+    <image id="bxho9r" name="圆角矩形726拷贝.png" path="/windows/collectiongame/asset/"/>
+    <image id="bxho9s" name="字拷贝2.png" path="/windows/collectiongame/asset/"/>
+    <image id="bxho9t" name="组35.png" path="/windows/collectiongame/asset/"/>
+    <image id="bxho9u" name="组43.png" path="/windows/collectiongame/asset/"/>
+    <image id="bxho9v" name="组44.png" path="/windows/collectiongame/asset/"/>
+    <image id="bxho9w" name="44.png" path="/windows/collectiongame/asset/"/>
+    <image id="bxho9x" name="x1.png" path="/windows/collectiongame/asset/"/>
+    <image id="bxho9y" name="上一步.png" path="/windows/collectiongame/asset/"/>
+    <image id="bxho9z" name="收藏有礼动态图(1) (1).png" path="/windows/collectiongame/asset/"/>
+    <image id="bxhoa0" name="说明.png" path="/__示意图/"/>
+    <component id="bxhoa1" name="btn_col_next.xml" path="/windows/collectiongame/component/"/>
+    <image id="bxhoa2" name="组44拷贝.png" path="/windows/collectiongame/asset/"/>
+    <image id="bxhoa3" name="组82拷贝5.png" path="/windows/collectiongame/asset/"/>
+    <image id="bxhoa4" name="组82拷贝5.png" path="/windows/freeenergy/asset/"/>
+    <component id="bxhoa5" name="btn_col_last.xml" path="/windows/collectiongame/component/"/>
+    <image id="n6f6a6" name="图层41拷贝.png" path="/lobby/asset/"/>
+    <component id="kbrpa7" name="collectgame_anipanel.xml" path="/windows/collectiongame/component/"/>
+    <image id="eqo1a8" name="renmenyouxi.png" path="/windows/moregame/asset/"/>
+    <image id="ocv8a9" name="guang.png" path="/gameover/asset/"/>
+    <image id="pxguaa" name="1_1.png" path="/game/asset/"/>
+    <component id="pkb0ah" name="closebtn.xml" path="/compents/"/>
+    <component id="pkb0aj" name="rankbtn1.xml" path="/windows/rank/component/"/>
+    <component id="pkb0am" name="rankrender.xml" path="/windows/rank/component/" exported="true"/>
+    <component id="pkb0ar" name="headicon.xml" path="/windows/rank/component/"/>
+    <component id="pkb0as" name="rankrendercontain.xml" path="/windows/rank/component/"/>
+    <component id="s4otat" name="animation_gameover.xml" path="/gameover/component/"/>
+    <image id="s4otau" name="矩形749.png" path="/gameover/asset/"/>
+    <image id="a7c8av" name="排行示意图.png" path="/__示意图/"/>
+    <image id="a7c8aw" name="453.png" path="/_shareasset/" scale="9grid" scale9grid="20,32,11,64"/>
+    <image id="a7c8ax" name="456.png" path="/_shareasset/" scale="9grid" scale9grid="20,32,13,64"/>
+    <component id="nqrsay" name="btn_gameshare.xml" path="/game/component/"/>
+    <image id="nqrsaz" name="好友求助按钮上的文字.png" path="/game/asset/"/>
+    <component id="nqrsb0" name="gamelinkicon.xml" path="/game/component/"/>
+    <image id="nqrsb1" name="组37.png" path="/windows/rank/asset/"/>
+    <image id="nqrsb2" name="组36.png" path="/windows/rank/asset/"/>
+    <image id="nqrsb3" name="世界排名.png" path="/windows/rank/asset/"/>
+    <image id="nqrsb4" name="好友排名.png" path="/windows/rank/asset/"/>
+    <component id="nqrsb5" name="rankbtn2.xml" path="/windows/rank/component/"/>
+    <image id="nqrsb6" name="矩形9拷贝.png" path="/windows/rank/asset/" scale="9grid" scale9grid="5,3,5,6"/>
+    <image id="nqrsb7" name="图层704(1).png" path="/windows/rank/asset/"/>
+    <image id="nqrsb8" name="paihang.png" path="/windows/rank/asset/"/>
+    <component id="vni6b9" name="winauthor.xml" path="/windows/author/" exported="true"/>
+    <component id="mo28ba" name="gamesheel_bgm.xml" path="/shell/component/"/>
+    <component id="mo28bb" name="gameover_sharepanel.xml" path="/gameover/component/"/>
+    <component id="mfc0bc" name="getreward_btnget.xml" path="/windows/getreward/component/"/>
+    <image id="mfc0bd" name="TIM图片20190927171103.png" path="/_shareasset/"/>
+    <image id="mfc0be" name="免费领取.png" path="/windows/promotionreward/asset/"/>
+    <component id="mfc0bf" name="promotion_close.xml" path="/windows/promotionreward/component/"/>
+    <component id="mfc0bg" name="winmustshare.xml" path="/windows/mustshare/" exported="true"/>
+    <component id="mfc0bh" name="mustshare_btnok.xml" path="/windows/mustshare/"/>
+    <image id="np2abi" name="gongxi.png" path="/windows/getreward/asset/"/>
+    <image id="np2abj" name="guanbi.png" path="/windows/getreward/asset/"/>
+    <image id="np2abk" name="kuang.png" path="/windows/getreward/asset/"/>
+    <image id="np2abl" name="lingqu.png" path="/_shareasset/"/>
+    <image id="np2abm" name="x2.png" path="/windows/getreward/asset/"/>
+    <image id="np2abn" name="x3.png" path="/windows/getreward/asset/"/>
+    <image id="np2abo" name="zi.png" path="/windows/getreward/asset/"/>
+    <component id="np2abp" name="getreward_btn.xml" path="/windows/getreward/component/"/>
+    <component id="np2abq" name="btn_nextmore_reward.xml" path="/windows/getreward/component/"/>
+    <component id="np2abs" name="guidemask.xml" path="/_sharecomponent/"/>
+    <image id="np2abt" name="circle2.png" path="/"/>
+    <image id="np2abu" name="circle2(1).png" path="/"/>
+    <component id="np2abv" name="Component1.xml" path="/game/component/"/>
+    <component id="np2abw" name="guidemaskcircle.xml" path="/game/component/"/>
+    <image id="np2abx" name="shareicon.png" path="/_shareasset/"/>
+    <image id="np2aby" name="yuangong.png" path="/game/asset/"/>
+    <image id="np2abz" name="yuangong(1).png" path="/game/asset/"/>
+    <image id="np2ac0" name="xiao.png" path="/game/asset/"/>
+    <component id="np2ac2" name="gamerecommenditem.xml" path="/game/component/"/>
+    <component id="np2ac3" name="guidemaskclick.xml" path="/game/component/"/>
+    <image id="np2ac4" name="抽奖.png" path="/windows/luckydraw/asset/"/>
+    <image id="7gqfc5" name="1.png" path="/lobby/asset/"/>
+  </resources>
+  <publish name="game" genCode="true"/>
+</packageDescription>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="70,70" mask="n7_g5sp">
+  <displayList>
+    <graph id="n7_g5sp" name="gload_head" xy="0,0" size="70,70" type="rect" corner="12"/>
+    <loader id="n9_yjgv" name="contain" xy="0,0" size="70,70" fill="scaleFree"/>
+  </displayList>
+</component>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="720,1280" designImage="ui://isxx5ak7e0dy3i" designImageAlpha="20">
+  <displayList>
+    <image id="n0_u6cb" name="n0" src="l84y78" fileName="_shareasset/图层30.jpg" xy="0,0" size="720,1280">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <component id="n1_ubk7" name="com_energy" src="u6cb1" fileName="_sharecomponent/com_energy.xml" xy="41,29" size="208,54" group="n22_7suj"/>
+    <component id="n2_ubk7" name="com_gold" src="ubk7p" fileName="_sharecomponent/com_gold.xml" xy="288,29" size="208,54" group="n22_7suj"/>
+    <component id="n25_quq8" name="btn_open" src="quq86p" fileName="lobby/component/btn_open.xml" xy="0,165" size="79,82" group="n22_7suj"/>
+    <image id="n24_e0dy" name="n24" src="e0dy58" fileName="_shareasset/图层41拷贝.png" xy="105,143" size="510,100" group="n22_7suj" aspect="true"/>
+    <image id="n23_e0dy" name="n23" src="e0dy3j" fileName="lobby/asset/比谁找得快.png" xy="185,135" size="349,66" group="n22_7suj" aspect="true"/>
+    <component id="n7_ubk7" name="com_level" src="seb11f" fileName="_sharecomponent/com_level.xml" xy="204,260" group="n22_7suj"/>
+    <component id="n12_ubk7" name="btn_start" src="ubk7t" fileName="lobby/component/btn_start.xml" xy="204,708" size="312,126" group="n22_7suj"/>
+    <component id="n15_ubk7" name="btn_rank" src="ubk7x" fileName="lobby/component/btn_rank.xml" xy="136,887" group="n22_7suj"/>
+    <component id="n16_ubk7" name="btn_gift" src="ubk7z" fileName="lobby/component/btn_gift.xml" xy="374,887" group="n22_7suj"/>
+    <component id="n17_ubk7" name="btn_setting" src="ubk7y" fileName="lobby/component/btn_setting.xml" xy="493,887" group="n22_7suj"/>
+    <component id="n18_ubk7" name="btn_img" src="ubk710" fileName="lobby/component/btn_img.xml" xy="255,887" group="n22_7suj"/>
+    <component id="n19_ubk7" name="btn_lucky" src="e0dy3u" fileName="_sharecomponent/btn_lucky.xml" xy="14,298" group="n22_7suj"/>
+    <component id="n21_ubk7" name="btn_more" src="quq85y" fileName="_sharecomponent/btn_more.xml" xy="576,271" size="142,148" group="n22_7suj" scale="0.95,0.95"/>
+    <group id="n22_7suj" name="n22" xy="0,29" size="718,953" advanced="true" collapsed="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

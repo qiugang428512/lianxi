@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="720,1280" designImage="ui://isxx5ak7quq85l">
+  <controller name="state" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n0_quq8" name="n0" src="e0dy47" fileName="_shareasset/圆角矩形9.png" xy="-572,205" size="570,725" group="n2_quq8"/>
+    <component id="n1_quq8" name="btn_close" src="quq86q" fileName="windows/recommend/component/btn_recommend_close.xml" xy="-7,295" group="n2_quq8">
+      <relation target="n0_quq8" sidePair="left-right,top-top"/>
+    </component>
+    <list id="n3_quq8" name="game_list" xy="-567,242" size="560,675" group="n2_quq8" layout="flow_hz" overflow="scroll" margin="15,0,0,0" lineGap="24" colGap="24" lineItemCount="4" defaultItem="ui://isxx5ak7quq85m" align="center">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n4_slfi" name="n4" src="slfi9l" fileName="windows/recommend/asset/字拷贝3 (1).png" xy="-542,180" group="n2_quq8"/>
+    <group id="n2_quq8" name="n2" xy="-572,180" size="652,750" advanced="true">
+      <gearXY controller="state" pages="0,1" values="-572,180|-5,180" tween="true"/>
+    </group>
+  </displayList>
+</component>

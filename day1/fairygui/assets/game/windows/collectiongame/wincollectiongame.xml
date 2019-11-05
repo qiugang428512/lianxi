@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="720,1280" designImage="ui://isxx5ak7bxhoa0">
+  <controller name="state" pages="0,,1," selected="1"/>
+  <displayList>
+    <image id="n1_bxho" name="n1" src="e0dy47" fileName="_shareasset/圆角矩形9.png" xy="49,93" size="624,793"/>
+    <image id="n0_bxho" name="n0" src="e0dy58" fileName="_shareasset/图层41拷贝.png" xy="97,38" size="517,116"/>
+    <component id="n2_bxho" name="n2" src="seb11o" fileName="_sharecomponent/btn_close.xml" xy="313,903"/>
+    <image id="n3_bxho" name="n3" src="bxho9s" fileName="windows/collectiongame/asset/字拷贝2.png" xy="258,57"/>
+    <image id="n18_bxho" name="n18" src="e0dy4d" fileName="windows/freeenergy/asset/图层1拷贝2.png" xy="82,194" size="561,507"/>
+    <image id="n17_bxho" name="n17" src="bxhoa2" fileName="windows/collectiongame/asset/组44拷贝.png" xy="82,194">
+      <gearDisplay controller="state" pages="0"/>
+    </image>
+    <component id="n13_bxho" name="n13" src="bxhoa1" fileName="windows/collectiongame/component/btn_col_next.xml" xy="203,729">
+      <gearDisplay controller="state" pages="0"/>
+    </component>
+    <image id="n19_bxho" name="n19" src="bxhoa4" fileName="windows/freeenergy/asset/组82拷贝5.png" xy="112,562">
+      <gearDisplay controller="state" pages="1"/>
+    </image>
+    <component id="n21_bxho" name="n21" src="bxhoa5" fileName="windows/collectiongame/component/btn_col_last.xml" xy="202,728">
+      <gearDisplay controller="state" pages="1"/>
+    </component>
+    <component id="n22_kbrp" name="anipanel" src="kbrpa7" fileName="windows/collectiongame/component/collectgame_anipanel.xml" xy="363,381">
+      <gearDisplay controller="state" pages="1"/>
+    </component>
+  </displayList>
+</component>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="720,1280" designImage="ui://isxx5ak7e0dy46">
+  <displayList>
+    <image id="n0_seb1" name="n0" src="e0dy47" fileName="_shareasset/圆角矩形9.png" xy="45,99" size="630,791"/>
+    <image id="n7_xsvo" name="n7" src="xsvo8m" fileName="windows/level/asset/114.png" xy="133,51"/>
+    <image id="n4_e0dy" name="n4" src="e0dy45" fileName="windows/level/asset/荣耀之路.png" xy="259,62"/>
+    <image id="n5_e0dy" name="n5" src="e0dy43" fileName="windows/level/asset/圆角矩形 10 拷贝 2.png" xy="73,156" size="571,699"/>
+    <list id="n2_seb1" name="level_list" xy="96,172" size="527,669" overflow="scroll" lineGap="13" defaultItem="ui://isxx5ak7seb11p" align="center" vAlign="bottom" renderOrder="descent">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n3_seb1" name="btn_Close" src="seb11o" fileName="_sharecomponent/btn_close.xml" xy="313,902" size="94,94"/>
+  </displayList>
+</component>

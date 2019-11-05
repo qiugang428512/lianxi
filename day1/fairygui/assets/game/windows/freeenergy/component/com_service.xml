@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="544,104">
+  <displayList>
+    <image id="n4_xsvo" name="n4" src="xsvo8c" fileName="windows/freeenergy/asset/圆角矩形9拷贝9.png" xy="0,0" size="544,104"/>
+    <component id="n2_e0dy" name="btn_reward" src="seb11v" fileName="windows/freeenergy/component/btn_receive.xml" xy="334,4" scale="0.75,0.75"/>
+    <image id="n3_e0dy" name="n3" src="e0dy4a" fileName="windows/freeenergy/asset/图层40.png" xy="10,7"/>
+    <richtext id="n5_xsvo" name="n5" xy="106,17" size="265,41" font="SimHei" fontSize="28" color="#3b3e87" vAlign="middle" leading="4" autoSize="none" text="客服会话每日体力"/>
+    <richtext id="n6_xsvo" name="n6" xy="106,56" size="265,33" font="SimHei" fontSize="24" color="#5b84d0" vAlign="middle" leading="4" autoSize="none" text="免费领体力"/>
+  </displayList>
+</component>

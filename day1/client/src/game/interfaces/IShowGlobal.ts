@@ -1,0 +1,3 @@
+interface IShowGlobal {
+	ShowGlobal():void;
+}

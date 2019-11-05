@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="720,1280" designImage="ui://isxx5ak7a7c8av">
+  <controller name="state" pages="0,global,1,friend" selected="0"/>
+  <displayList>
+    <image id="n1_pkb0" name="n1" src="e0dy47" fileName="_shareasset/圆角矩形9.png" xy="39,206" size="651,963" hideByEditor="true"/>
+    <component id="n3_pkb0" name="btn_close" src="pkb0ah" fileName="compents/closebtn.xml" xy="600,173" size="100,98"/>
+    <component id="n4_pkb0" name="n4" src="pkb0aj" fileName="windows/rank/component/rankbtn1.xml" xy="113,290" pivot="0.5,0.5" scale="1.1,1.1">
+      <gearSize controller="state" pages="0" values="244,80,1.1,1.1" default="244,80,1,1" tween="true"/>
+      <Button checked="true" controller="state" page="0"/>
+    </component>
+    <component id="n5_pkb0" name="n5" src="nqrsb5" fileName="windows/rank/component/rankbtn2.xml" xy="376,290" pivot="0.5,0.5">
+      <gearSize controller="state" pages="1" values="244,80,1.1,1.1" default="244,80,1,1" tween="true"/>
+      <Button controller="state" page="1"/>
+    </component>
+    <list id="n6_pkb0" name="n6" xy="76,402" size="584,592" overflow="scroll" lineGap="10" defaultItem="ui://isxx5ak7pkb0am" autoClearItems="true">
+      <gearDisplay controller="state" pages="0"/>
+      <item controllers="state,0,rank3,0"/>
+    </list>
+    <component id="n7_pkb0" name="myrender" src="pkb0am" fileName="windows/rank/component/rankrender.xml" xy="78,1005" controller="state,1,rank3,0">
+      <gearDisplay controller="state" pages="0"/>
+    </component>
+    <image id="n8_nqrs" name="n8" src="nqrsb6" fileName="windows/rank/asset/矩形9拷贝.png" xy="84,369" size="568,10"/>
+    <image id="n9_nqrs" name="n9" src="nqrsb7" fileName="windows/rank/asset/图层704(1).png" xy="134,156"/>
+    <image id="n10_nqrs" name="n10" src="nqrsb8" fileName="windows/rank/asset/paihang.png" xy="298,168"/>
+  </displayList>
+</component>

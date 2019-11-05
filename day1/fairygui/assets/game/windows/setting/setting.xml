@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="720,1280" designImage="ui://isxx5ak7u6cbk">
+  <displayList>
+    <graph id="n0_7suj" name="n0" xy="0,0" size="720,1280" hideByEditor="true" type="rect" lineSize="0" fillColor="#ff60338e"/>
+    <component id="n1_7suj" name="n1" src="7suj22" fileName="_sharecomponent/btn_back.xml" xy="19,27" size="60,60"/>
+    <graph id="n2_7suj" name="n2" xy="89,134" size="543,65" group="n4_7suj" type="rect" lineSize="0" fillColor="#ff431a69" corner="10"/>
+    <text id="n3_7suj" name="n3" xy="102,143" size="89,51" group="n4_7suj" fontSize="41" color="#ffffff" bold="true" text="音效"/>
+    <component id="n5_7suj" name="sound_switch" src="7suj23" fileName="windows/setting/component/com_switch.xml" xy="544,147" group="n4_7suj"/>
+    <group id="n4_7suj" name="n4" xy="89,134" size="543,65"/>
+    <graph id="n6_7suj" name="n6" xy="89,227" size="543,65" group="n9_7suj" type="rect" lineSize="0" fillColor="#ff431a69" corner="10"/>
+    <text id="n7_7suj" name="n7" xy="102,236" size="89,51" group="n9_7suj" fontSize="41" color="#ffffff" bold="true" text="音效"/>
+    <component id="n8_7suj" name="music_switch" src="7suj23" fileName="windows/setting/component/com_switch.xml" xy="544,240" group="n9_7suj"/>
+    <group id="n9_7suj" name="n9" xy="89,227" size="543,65"/>
+    <graph id="n10_7suj" name="n10" xy="89,323" size="543,65" group="n13_7suj" type="rect" lineSize="0" fillColor="#ff431a69" corner="10"/>
+    <text id="n11_7suj" name="n11" xy="102,332" size="89,51" group="n13_7suj" fontSize="41" color="#ffffff" bold="true" text="音效"/>
+    <component id="n12_7suj" name="vibration_switch" src="7suj23" fileName="windows/setting/component/com_switch.xml" xy="544,336" group="n13_7suj"/>
+    <group id="n13_7suj" name="n13" xy="89,323" size="543,65"/>
+    <component id="n14_7suj" name="back_home" src="seb11h" fileName="_sharecomponent/btn_back_home.xml" xy="276,894"/>
+  </displayList>
+</component>

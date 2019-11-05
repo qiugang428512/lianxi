@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="720,1280">
+  <displayList>
+    <graph id="n43_qm9s" name="n43" xy="0,-140" size="720,1560" type="rect" lineSize="0" fillColor="#b3000000">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <text id="n21_8o98" name="n21" xy="53,172" size="203,43" group="n35_f3oj" fontSize="34" color="#ffffff" text="1.点击右上角"/>
+    <component id="n29_f3oj" name="btn_Close" src="quq862" fileName="windows/addfloat/component/Button_IKnow.xml" xy="208,1055" group="n35_f3oj"/>
+    <image id="n30_f3oj" name="n30" src="quq864" fileName="windows/addfloat/asset/组 17.png" xy="314,92" group="n35_f3oj"/>
+    <image id="n31_f3oj" name="n31" src="quq865" fileName="windows/addfloat/asset/组 15.png" xy="61,387" group="n35_f3oj"/>
+    <image id="n32_f3oj" name="n32" src="quq866" fileName="windows/addfloat/asset/组 1(1).png" xy="571,877" group="n35_f3oj"/>
+    <text id="n33_f3oj" name="n33" xy="53,281" size="610,98" group="n35_f3oj" fontSize="34" color="#ffffff" leading="10" autoSize="none" text="2.点击“浮窗”，把找不同设为浮窗"/>
+    <text id="n34_f3oj" name="n34" xy="53,683" size="611,118" group="n35_f3oj" fontSize="34" color="#ffffff" leading="20" autoSize="none" text="3.点击微信页面右侧浮窗，离开小程序也可以实时订阅“比谁找得快”。"/>
+    <text id="n37_f3oj" name="n37" xy="53,842" size="611,66" group="n35_f3oj" fontSize="34" color="#ffffff" leading="20" autoSize="none" text="4.从浮窗进入可获得体力哦~"/>
+    <image id="n41_quq8" name="n41" src="e0dy3f" fileName="_shareasset/组8.png" xy="299,946" group="n40_f3oj"/>
+    <image id="n42_fz7w" name="n42" src="xsvo84" fileName="_shareasset/x2.png" xy="357,963" size="47,40" group="n40_f3oj" aspect="true"/>
+    <group id="n40_f3oj" name="n40" xy="299,946" size="105,64" group="n35_f3oj"/>
+    <group id="n35_f3oj" name="n35" xy="53,92" size="669,1036" collapsed="true"/>
+  </displayList>
+</component>

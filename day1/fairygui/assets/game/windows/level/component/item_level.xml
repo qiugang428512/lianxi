@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="526,100">
+  <controller name="state" pages="0,,1,,2," selected="0">
+    <remark page="0" value="未到达的等级"/>
+    <remark page="1" value="已达到的等级"/>
+    <remark page="2" value="历史的等级"/>
+  </controller>
+  <displayList>
+    <image id="n14_xsvo" name="n14" src="xsvo8n" fileName="windows/level/asset/111.png" xy="0,0" size="526,100">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n13_e0dy" name="n13" src="xsvo8o" fileName="windows/level/asset/112.png" xy="0,0" size="526,100">
+      <gearDisplay controller="state" pages="1"/>
+    </image>
+    <image id="n15_xsvo" name="n15" src="xsvo8p" fileName="windows/level/asset/113.png" xy="0,0" size="526,100">
+      <gearDisplay controller="state" pages="2"/>
+    </image>
+    <text id="n5_seb1" name="level_title" xy="150,28" size="178,44" font="SimHei" fontSize="32" color="#5c5c5c" vAlign="middle" leading="0" autoSize="none" bold="true" text="不屈黑铁3">
+      <gearColor controller="state" pages="0,1" values="#5c5c5c,#000000|#9a5104,#000000" default="#3b3e87,#000000"/>
+    </text>
+    <text id="n6_seb1" name="level_instructions" xy="358,34" size="151,32" font="SimHei" fontSize="28" color="#5c5c5c" align="right" vAlign="middle" leading="0" bold="true" text="完成关卡20">
+      <gearColor controller="state" pages="0,1" values="#5c5c5c,#000000|#9a5104,#000000" default="#3b3e87,#000000"/>
+      <relation target="" sidePair="right-right"/>
+    </text>
+    <image id="n16_xsvo" name="n16" src="xsvo8q" fileName="windows/level/asset/1472.png" xy="-32,32">
+      <gearDisplay controller="state" pages="1"/>
+    </image>
+    <loader id="n17_ndfe" name="level_icon" xy="5,2" size="137,94" grayed="true" align="center" vAlign="middle" fill="scaleMatchWidth">
+      <gearLook controller="state" pages="1,2" values="1,0,0,1|1,0,0,1" default="1,0,1,1"/>
+    </loader>
+  </displayList>
+</component>

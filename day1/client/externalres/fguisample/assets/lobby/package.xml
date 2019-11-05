@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="m5vy92kv" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="tany0" name="SceneLobby.xml" path="/" exported="true"/>
+    <image id="o6z91" name="03.png" path="/resource/"/>
+    <image id="o6z93" name="19.19_1_export.png" path="/resource/"/>
+    <image id="o6z94" name="19.19_2_export.png" path="/resource/"/>
+    <image id="o6z95" name="19.19_3_export.png" path="/resource/"/>
+    <image id="o6z96" name="19.19_4_export.png" path="/resource/"/>
+    <image id="o6z97" name="19.19_5_export.png" path="/resource/"/>
+    <image id="o6z98" name="19.19_6_export.png" path="/resource/"/>
+    <component id="u708e" name="Component1.xml" path="/"/>
+    <component id="u708f" name="Component2.xml" path="/"/>
+  </resources>
+  <publish name="lobby"/>
+</packageDescription>

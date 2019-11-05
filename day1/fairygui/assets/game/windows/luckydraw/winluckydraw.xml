@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="720,1280" designImage="ui://isxx5ak7evk28s">
+  <displayList>
+    <image id="n5_7suj" name="n5" src="l4929h" fileName="_shareasset/图层30紫.jpg" xy="0,0" size="720,1280">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <component id="n0_7suj" name="com_gold" src="ubk7p" fileName="_sharecomponent/com_gold.xml" xy="290,29" group="n21_quq8"/>
+    <component id="n1_7suj" name="com_energy" src="u6cb1" fileName="_sharecomponent/com_energy.xml" xy="40,29" group="n21_quq8"/>
+    <component id="n2_7suj" name="btn_back" src="7suj22" fileName="_sharecomponent/btn_back.xml" xy="18,142" size="92,92" group="n21_quq8"/>
+    <list id="n3_7suj" name="list_luck" xy="-1,257" size="720,210" group="n21_quq8" visible="false" touchable="false" layout="row" overflow="scroll" scroll="horizontal" defaultItem="ui://isxx5ak77suj20" vAlign="middle">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n24_sux6" name="n24" src="7suj2b" fileName="windows/luckydraw/component/com_list.xml" xy="0,257" group="n21_quq8"/>
+    <image id="n22_evk2" name="n22" src="evk28u" fileName="windows/luckydraw/asset/组18.png" xy="222,220" group="n17_e0dy"/>
+    <image id="n23_evk2" name="n23" src="evk28x" fileName="windows/luckydraw/asset/图层47.png" xy="312,210" group="n17_e0dy"/>
+    <group id="n17_e0dy" name="sel_box" xy="222,210" size="276,286" group="n21_quq8" advanced="true"/>
+    <component id="n18_e0dy" name="btn_moregame" src="e0dy4t" fileName="_sharecomponent/btn_moregame.xml" xy="203,597" group="n21_quq8"/>
+    <component id="n19_e0dy" name="btn_luck" src="e0dy57" fileName="windows/luckydraw/component/btn_luckdraw.xml" xy="203,748" group="n21_quq8"/>
+    <text id="n20_e0dy" name="luck_num" xy="216,870" size="287,46" group="n21_quq8" font="Microsoft YaHei" fontSize="32" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" strokeColor="#000000" text="今日免费次数：1"/>
+    <group id="n21_quq8" name="n21" xy="-1,29" size="721,887" advanced="true">
+      <relation target="" sidePair="middle-middle"/>
+    </group>
+  </displayList>
+</component>

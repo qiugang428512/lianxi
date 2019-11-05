@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="314,110" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n0_k97h" name="n0" src="e0dy4s" fileName="_shareasset/组16拷贝.png" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_k97h" name="n1" src="k97h7m" fileName="windows/serviceenergy/asset/领体力.png" xy="82,28"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue="1.10"/>
+</component>

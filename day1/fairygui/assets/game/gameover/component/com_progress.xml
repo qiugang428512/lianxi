@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="350,30" extention="ProgressBar">
+  <displayList>
+    <image id="n0_seb1" name="n0" src="seb11k" fileName="gameover/asset/n0.png" xy="0,0"/>
+    <image id="n1_seb1" name="n1" src="seb11l" fileName="gameover/asset/n1.png" xy="3,3"/>
+    <text id="n3_seb1" name="n3" xy="0,0" size="350,30" fontSize="20" color="#333333" align="center" vAlign="middle" autoSize="none" bold="true" text="3/5"/>
+    <image id="n2_seb1" name="n2" src="ubk711" fileName="_shareasset/11.png" xy="319,-30" size="90,70" aspect="true"/>
+  </displayList>
+  <ProgressBar titleType="valueAndmax"/>
+</component>

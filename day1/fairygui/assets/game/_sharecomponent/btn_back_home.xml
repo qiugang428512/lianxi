@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="174,60" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n5_e0dy" name="n5" src="e0dy4r" fileName="_shareasset/返回首页拷贝.png" xy="-2,9"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue="1.10"/>
+</component>

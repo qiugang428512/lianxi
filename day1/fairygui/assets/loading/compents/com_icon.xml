@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="304,300">
+  <displayList>
+    <image id="n18_quq8" name="n18" src="quq83" fileName="images/001.png" xy="0,0"/>
+    <image id="n20_quq8" name="search_img" src="quq84" fileName="images/002.png" xy="4,0"/>
+  </displayList>
+  <transition name="t0">
+    <item time="5" type="XY" target="n20_quq8" value="-33,-61"/>
+    <item time="11" type="XY" target="n20_quq8" value="-60,19"/>
+    <item time="17" type="XY" target="n20_quq8" value="21,26"/>
+  </transition>
+</component>

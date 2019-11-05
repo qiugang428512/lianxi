@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,100" pivot="0.5,0.5" anchor="true">
+  <displayList>
+    <text id="n1_h5b5" name="txt" xy="-29,3" size="159,93" font="Microsoft YaHei" fontSize="80" color="#ff0000" align="center" autoSize="none" bold="true" text="-20"/>
+  </displayList>
+</component>

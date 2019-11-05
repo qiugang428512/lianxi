@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="720,1280">
+  <displayList>
+    <graph id="n49_mo28" name="n49" xy="0,0" size="720,1280" type="rect" lineSize="0" fillColor="#ffcdcefc">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <component id="n50_mo28" name="btn_gold" src="ubk7p" fileName="_sharecomponent/com_gold.xml" xy="-1,136" scale="0.8,0.8"/>
+    <text id="n51_mo28" name="txt_level" xy="537,143" size="147,38" font="Microsoft YaHei" fontSize="26" color="#6566cd" align="right" vAlign="middle" autoSize="none" bold="true" text="关卡1"/>
+    <text id="n52_mo28" name="txt_time" xy="251,73" size="223,69" font="Microsoft YaHei" fontSize="50" color="#4849b0" align="center" autoSize="none" bold="true" text="01:20"/>
+    <component id="n53_mo28" name="btn_tip" src="seb11d" fileName="game/component/btn_tip.xml" xy="220,1093" scale="0.9,0.9"/>
+    <component id="n54_mo28" name="rightcnt" src="seb11e" fileName="game/component/com_progress.xml" xy="223,140"/>
+    <component id="n55_mo28" name="btn_back" src="whiu5d" fileName="game/component/gamebtn_back.xml" xy="4,54" size="93,93" aspect="true" scale="0.8,0.8"/>
+    <graph id="n64_mo28" name="bg0" xy="26,198" size="120,75" type="rect" lineSize="0" fillColor="#66000000" corner="5"/>
+    <graph id="n68_mo28" name="bg1" xy="163,198" size="120,75" type="rect" lineSize="0" fillColor="#66000000" corner="5"/>
+    <graph id="n69_mo28" name="bg2" xy="299,198" size="120,75" type="rect" lineSize="0" fillColor="#66000000" corner="5"/>
+    <graph id="n70_mo28" name="bg3" xy="437,198" size="120,75" type="rect" lineSize="0" fillColor="#66000000" corner="5"/>
+    <graph id="n71_mo28" name="bg4" xy="575,198" size="120,75" type="rect" lineSize="0" fillColor="#66000000" corner="5"/>
+    <component id="n72_mo28" name="bgm" src="mo28ba" fileName="shell/component/gamesheel_bgm.xml" xy="24,290"/>
+    <text id="n73_mo28" name="txt_guidetips" xy="25,1018" size="682,44" font="Microsoft YaHei" fontSize="32" color="#ffffff" align="center" autoSize="none" bold="true" strokeColor="#000000" text="把图片拖回原来的位置即可顺利过关"/>
+  </displayList>
+</component>

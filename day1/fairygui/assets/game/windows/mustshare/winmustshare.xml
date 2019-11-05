@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="720,1280" designImage="ui://isxx5ak7a7c8av">
+  <displayList>
+    <image id="n1_pkb0" name="n1" src="e0dy47" fileName="_shareasset/圆角矩形9.png" xy="34,439" size="651,258"/>
+    <component id="n3_pkb0" name="btn_ok" src="pkb0ah" fileName="compents/closebtn.xml" xy="310,719" size="100,98"/>
+    <text id="n12_vni6" name="t1" xy="279,500" pivot="0.5,0.5" size="160,40" font="SimHei" fontSize="36" color="#e57837" align="center" vAlign="middle" bold="true" text="关卡解锁"/>
+    <component id="n13_mfc0" name="btn_share" src="mfc0bh" fileName="windows/mustshare/mustshare_btnok.xml" xy="210,570"/>
+  </displayList>
+</component>

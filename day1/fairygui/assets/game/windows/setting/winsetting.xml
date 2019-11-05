@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="720,1280" designImage="ui://isxx5ak7e0dy4m">
+  <displayList>
+    <image id="n0_7suj" name="n0" src="l84y79" fileName="_shareasset/图层30拷贝.jpg" xy="0,0" size="720,1280">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <component id="n1_7suj" name="btn_back" src="7suj22" fileName="_sharecomponent/btn_back.xml" xy="31,33" size="92,92" group="n26_oxpn"/>
+    <image id="n2_7suj" name="n2" src="e0dy4n" fileName="windows/setting/asset/圆角矩形618拷贝3.png" xy="105,176" size="505,74" group="n4_7suj"/>
+    <text id="n3_7suj" name="n3" xy="124,191" size="81,48" group="n4_7suj" fontSize="37" color="#ffffff" bold="true" text="音效"/>
+    <component id="n5_7suj" name="sound_switch" src="7suj23" fileName="windows/setting/component/com_switch.xml" xy="479,192" size="119,44" group="n4_7suj"/>
+    <group id="n4_7suj" name="n4" xy="105,176" size="505,74" group="n26_oxpn" collapsed="true"/>
+    <image id="n15_e0dy" name="n15" src="e0dy4n" fileName="windows/setting/asset/圆角矩形618拷贝3.png" xy="105,279" size="505,74" group="n18_e0dy"/>
+    <text id="n16_e0dy" name="n16" xy="124,294" size="81,48" group="n18_e0dy" fontSize="37" color="#ffffff" bold="true" text="音乐"/>
+    <component id="n17_e0dy" name="music_switch" src="7suj23" fileName="windows/setting/component/com_switch.xml" xy="479,295" size="119,44" group="n18_e0dy"/>
+    <group id="n18_e0dy" name="n18" xy="105,279" size="505,74" group="n26_oxpn" collapsed="true"/>
+    <image id="n19_e0dy" name="n19" src="e0dy4n" fileName="windows/setting/asset/圆角矩形618拷贝3.png" xy="105,379" size="505,74" group="n22_e0dy"/>
+    <text id="n20_e0dy" name="n20" xy="124,394" size="81,48" group="n22_e0dy" fontSize="37" color="#ffffff" bold="true" text="震动"/>
+    <component id="n21_e0dy" name="vibration_switch" src="7suj23" fileName="windows/setting/component/com_switch.xml" xy="479,395" size="119,44" group="n22_e0dy"/>
+    <group id="n22_e0dy" name="n22" xy="105,379" size="505,74" group="n26_oxpn" collapsed="true"/>
+    <component id="n14_7suj" name="back_home" src="seb11h" fileName="_sharecomponent/btn_back_home.xml" xy="274,909" group="n26_oxpn"/>
+    <component id="n24_e0dy" name="btn_more" src="e0dy4t" fileName="_sharecomponent/btn_moregame.xml" xy="203,488" group="n26_oxpn"/>
+    <group id="n26_oxpn" name="n26" xy="31,33" size="579,936" advanced="true" collapsed="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

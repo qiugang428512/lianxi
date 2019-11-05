@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="110,110">
+  <displayList>
+    <graph id="n0_quq8" name="n0" xy="0,0" size="100,100" type="rect" lineSize="0" corner="15"/>
+    <loader id="n2_quq8" name="item_icon" xy="0,0" size="110,110" url="ui://isxx5ak7slfi9j" fill="scale"/>
+  </displayList>
+</component>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="720,1280" designImage="ui://isxx5ak7quq86x">
+  <controller name="state" pages="1,,0,,2,,3,下次免费" selected="1">
+    <remark page="0" value="金币"/>
+    <remark page="1" value="体力"/>
+    <remark page="2" value="自定义图片"/>
+  </controller>
+  <displayList>
+    <image id="n0_quq8" name="n0" src="xsvo8g" fileName="_shareasset/图层701.png" xy="360,405" pivot="0.5,0.5" anchor="true"/>
+    <graph id="n13_np2a" name="n13" xy="217,241" size="285,285" type="eclipse" lineColor="#66ffffff" fillColor="#33ffffff"/>
+    <image id="n9_quq8" name="n9" src="e0dy4x" fileName="_shareasset/图层46拷贝.png" xy="360,389" pivot="0.5,0.5" anchor="true" scale="2,2">
+      <gearDisplay controller="state" pages="1"/>
+    </image>
+    <component id="n1_quq8" name="n1" src="xsvo8j" fileName="windows/getreward/component/wingetreward_energy.xml" xy="359,422">
+      <gearDisplay controller="state" pages="0"/>
+    </component>
+    <loader id="n11_bxho" name="other_icon" xy="220,266" size="276,241" align="center" vAlign="middle" fill="scaleMatchHeight">
+      <gearDisplay controller="state" pages="2,3"/>
+    </loader>
+    <text id="n2_quq8" name="reward_num" xy="234,511" size="252,90" font="SimHei" fontSize="72" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" strokeColor="#000000" strokeSize="2" text="x2">
+      <gearDisplay controller="state" pages="1,0,2"/>
+    </text>
+    <component id="n5_quq8" name="btn_double_receive" src="quq86y" fileName="windows/getreward/component/btn_receive_reward.xml" xy="212,724">
+      <gearDisplay controller="state" pages="1,0,2"/>
+    </component>
+    <image id="n10_xsvo" name="n10" src="xsvo8e" fileName="_shareasset/多边形1拷贝5.png" xy="129,232"/>
+    <component id="n12_mfc0" name="btn_receive" src="mfc0bc" fileName="windows/getreward/component/getreward_btnget.xml" xy="211,840">
+      <gearDisplay controller="state" pages="1,0,2"/>
+    </component>
+    <image id="n14_np2a" name="n14" src="quq85v" fileName="_shareasset/组15.png" xy="121,147" size="478,110" group="n16_np2a"/>
+    <image id="n15_np2a" name="n15" src="np2abi" fileName="windows/getreward/asset/gongxi.png" xy="214,152" group="n16_np2a"/>
+    <group id="n16_np2a" name="n16" xy="121,147" size="478,110" collapsed="true"/>
+    <component id="n17_np2a" name="btn_close" src="np2abp" fileName="windows/getreward/component/getreward_btn.xml" xy="575,140">
+      <gearDisplay controller="state" pages="3"/>
+    </component>
+    <component id="n18_np2a" name="btn_nextmore" src="np2abq" fileName="windows/getreward/component/btn_nextmore_reward.xml" xy="212,725">
+      <gearDisplay controller="state" pages="3"/>
+    </component>
+    <image id="n19_np2a" name="n19" src="np2abk" fileName="windows/getreward/asset/kuang.png" xy="262,570" group="n21_np2a"/>
+    <text id="n20_np2a" name="txt_nextmore" xy="270,575" size="181,38" group="n21_np2a" font="Microsoft YaHei" fontSize="29" color="#ffffff" autoSize="none" text="下次2倍奖励"/>
+    <group id="n21_np2a" name="n21" xy="262,570" size="196,48" advanced="true" collapsed="true">
+      <gearDisplay controller="state" pages="3"/>
+    </group>
+    <text id="n22_np2a" name="reward_nextmore" xy="232,598" size="252,90" font="SimHei" fontSize="36" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" strokeColor="#000000" strokeSize="2" text="3倍奖励">
+      <gearDisplay controller="state" pages="1,0,2"/>
+    </text>
+  </displayList>
+  <transition name="t0" options="1" autoPlay="true" autoPlayRepeat="-1">
+    <item time="0" type="Rotation" target="n0_quq8" tween="true" startValue="0" endValue="360" duration="192" ease="Linear"/>
+    <item time="192" type="Rotation" target="n0_quq8" tween="true" startValue="360" ease="Linear"/>
+  </transition>
+  <transition name="t1" autoPlay="true">
+    <item time="0" type="Scale" target="n1_quq8" tween="true" startValue="1,1" endValue="1.5,1.5" duration="6"/>
+    <item time="0" type="Scale" target="n9_quq8" tween="true" startValue="2,2" endValue="3,3" duration="6"/>
+    <item time="6" type="Scale" target="n1_quq8" tween="true" startValue="1.5,1.5" endValue="1,1" duration="10"/>
+    <item time="6" type="Scale" target="n9_quq8" tween="true" startValue="3,3" endValue="2,2" duration="10"/>
+  </transition>
+</component>

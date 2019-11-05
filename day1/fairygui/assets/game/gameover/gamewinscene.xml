@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="720,1280" designImage="ui://isxx5ak7quq85x">
+  <displayList>
+    <image id="n5_seb1" name="n5" src="l84y78" fileName="_shareasset/图层30.jpg" xy="0,0" size="720,1280">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <component id="n3_seb1" name="n3" src="seb11f" fileName="_sharecomponent/com_level.xml" xy="203,289" group="n10_7suj"/>
+    <component id="n9_seb1" name="com_progress" src="seb11j" fileName="gameover/component/gameover_progress.xml" xy="164,743" group="n10_7suj">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n16_mo28" name="sharepanel" src="mo28bb" fileName="gameover/component/gameover_sharepanel.xml" xy="0,2" group="n10_7suj">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <component id="n0_seb1" name="btn_energy" src="u6cb1" fileName="_sharecomponent/com_energy.xml" xy="41,51" group="n10_7suj"/>
+    <component id="n1_seb1" name="btn_gold" src="ubk7p" fileName="_sharecomponent/com_gold.xml" xy="288,50" group="n10_7suj"/>
+    <component id="n2_seb1" name="btn_rightgift" src="quq85y" fileName="_sharecomponent/btn_more.xml" xy="575,267" size="138,148" group="n10_7suj" scale="0.95,0.95"/>
+    <image id="n11_quq8" name="n11" src="quq85v" fileName="_shareasset/组15.png" xy="134,163" size="451,101" group="n10_7suj"/>
+    <image id="n12_quq8" name="n12" src="quq85w" fileName="gameover/asset/胜利！.png" xy="229,142" size="266,95" group="n10_7suj" aspect="true"/>
+    <component id="n4_seb1" name="btn_next" src="seb11i" fileName="gameover/component/btn_next.xml" xy="205,800" group="n10_7suj"/>
+    <component id="n8_seb1" name="btn_back" src="seb11h" fileName="_sharecomponent/btn_back_home.xml" xy="276,935" group="n10_7suj"/>
+    <component id="n13_quq8" name="btn_leftgift" src="e0dy3u" fileName="_sharecomponent/btn_lucky.xml" xy="5,299" group="n10_7suj"/>
+    <group id="n10_7suj" name="n10" xy="0,2" size="720,1280" advanced="true">
+      <relation target="" sidePair="middle-middle"/>
+    </group>
+    <component id="n14_ocv8" name="n14" src="s4otat" fileName="gameover/component/animation_gameover.xml" xy="360,-29" pivot="0.5,0" anchor="true" locked="true" rotation="15" touchable="false">
+      <relation target="" sidePair="top-top,center-center"/>
+    </component>
+    <component id="n15_ocv8" name="n15" src="s4otat" fileName="gameover/component/animation_gameover.xml" xy="360,-34" pivot="0.5,0" anchor="true" locked="true" rotation="-15" touchable="false">
+      <relation target="" sidePair="top-top,center-center"/>
+    </component>
+  </displayList>
+  <transition name="t1" autoPlay="true" autoPlayRepeat="-1">
+    <item time="0" type="Rotation" target="n14_ocv8" tween="true" startValue="44" endValue="-26" duration="96" ease="Linear"/>
+    <item time="96" type="Rotation" target="n14_ocv8" tween="true" startValue="-26" endValue="44" duration="96" ease="Linear"/>
+  </transition>
+  <transition name="t2" autoPlay="true" autoPlayRepeat="-1">
+    <item time="0" type="Rotation" target="n15_ocv8" tween="true" startValue="-44" endValue="26" duration="96" ease="Linear"/>
+    <item time="96" type="Rotation" target="n15_ocv8" tween="true" startValue="26" endValue="-44" duration="96" ease="Linear"/>
+    <item time="192" type="Rotation" target="n15_ocv8" tween="true" startValue="-44" ease="Linear"/>
+  </transition>
+</component>

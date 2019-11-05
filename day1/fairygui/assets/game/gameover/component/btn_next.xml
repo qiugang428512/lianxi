@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="314,126" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n7_quq8" name="n7" src="e0dy4s" fileName="_shareasset/组16拷贝.png" xy="0,0" size="314,126"/>
+    <image id="n8_quq8" name="n8" src="e0dy3g" fileName="_exportasset/img_energy.png" xy="116,63"/>
+    <image id="n9_fz7w" name="n9" src="fz7w7a" fileName="_shareasset/下一关.png" xy="81,11"/>
+    <image id="n10_fz7w" name="n10" src="fz7w7b" fileName="_shareasset/x1.png" xy="158,74"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue="1.10"/>
+</component>

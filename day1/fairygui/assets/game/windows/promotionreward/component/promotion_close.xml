@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="242,79">
+  <displayList>
+    <text id="n27_mfc0" name="n27" xy="36,14" size="167,50" fontSize="40" color="#999999" bold="true" text="放弃领取"/>
+    <graph id="n28_mfc0" name="n28" xy="34,62" size="170,2" type="rect" lineSize="0" fillColor="#ff999999"/>
+  </displayList>
+</component>

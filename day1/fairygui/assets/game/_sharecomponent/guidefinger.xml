@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="0,0" pivot="0.5,1">
+  <controller name="c1" pages="0,finger,1,circle" selected="0"/>
+  <displayList>
+    <graph id="n2_arz3" name="n2" xy="0,0" pivot="0.5,0.5" anchor="true" size="66,66" type="eclipse" lineSize="0" fillColor="#ff66ccff">
+      <gearDisplay controller="c1" pages="0"/>
+    </graph>
+    <graph id="n3_arz3" name="n3" xy="0,0" pivot="0.5,0.5" anchor="true" size="177,177" type="eclipse" lineSize="4" lineColor="#ff66ccff" fillColor="#00ffffff">
+      <gearDisplay controller="c1" pages="0"/>
+    </graph>
+    <image id="n1_9asy" name="n1" src="arz368" fileName="_shareasset/图层46.png" xy="-51,-145" pivot="0.5,1" rotation="128.8">
+      <gearDisplay controller="c1" pages="0"/>
+    </image>
+    <image id="n5_mfc0" name="n5" src="mfc0bd" fileName="_shareasset/TIM图片20190927171103.png" xy="0,0" pivot="0.5,0.5" anchor="true">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+  </displayList>
+  <transition name="t0" autoPlay="true" autoPlayRepeat="-1">
+    <item time="0" type="Scale" target="n2_arz3" value="0,0"/>
+    <item time="0" type="Scale" target="n3_arz3" value="0,0"/>
+    <item time="0" type="XY" target="n1_9asy" tween="true" startValue="-51,-145" endValue="-18,-114.95" duration="12"/>
+    <item time="12" type="XY" target="n1_9asy" tween="true" startValue="-18,-114.95" endValue="-51,-145" duration="8"/>
+    <item time="20" type="Scale" target="n2_arz3" tween="true" startValue="0,0" endValue="1,1" duration="10"/>
+    <item time="23" type="Alpha" target="n2_arz3" tween="true" startValue="1" endValue="0" duration="7"/>
+    <item time="26" type="Scale" target="n3_arz3" tween="true" startValue="0,0" endValue="1,1" duration="10"/>
+    <item time="31" type="Alpha" target="n3_arz3" tween="true" startValue="1" endValue="0" duration="5"/>
+  </transition>
+  <transition name="t1" autoPlay="true" autoPlayRepeat="-1">
+    <item time="0" type="Scale" target="n5_mfc0" tween="true" startValue="1,1" endValue="1.2,1.2" duration="9"/>
+    <item time="9" type="Scale" target="n5_mfc0" tween="true" startValue="1.2,1.2" endValue="1,1" duration="7"/>
+    <item time="72" type="Scale" target="n5_mfc0" value="1,1"/>
+  </transition>
+</component>

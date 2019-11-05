@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="314,110" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n21_bxho" name="n21" src="e0dy4s" fileName="_shareasset/组16拷贝.png" xy="0,0" group="n23_bxho"/>
+    <image id="n22_bxho" name="n22" src="bxho9y" fileName="windows/collectiongame/asset/上一步.png" xy="89,27" group="n23_bxho"/>
+    <group id="n23_bxho" name="n23" xy="0,0" size="314,110"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue="1.10"/>
+</component>

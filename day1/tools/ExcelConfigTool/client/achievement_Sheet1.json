@@ -1,0 +1,182 @@
+[
+    {
+        "gradingNum": 1,
+        "icon": "icon1",
+        "id": 1,
+        "leveladdstar": 1,
+        "levelname": 1,
+        "name": "入门新手",
+        "starNum": 1,
+        "throughLevel": 1
+    },
+    {
+        "gradingNum": 1,
+        "icon": "icon2",
+        "id": 2,
+        "leveladdstar": 1,
+        "levelname": 2,
+        "name": "菜鸟铸铁",
+        "starNum": 2,
+        "throughLevel": 3
+    },
+    {
+        "gradingNum": 2,
+        "icon": "icon3",
+        "id": 3,
+        "leveladdstar": 1,
+        "levelname": 3,
+        "name": "不屈黑铁",
+        "starNum": 3,
+        "throughLevel": 9
+    },
+    {
+        "gradingNum": 3,
+        "icon": "icon4",
+        "id": 4,
+        "leveladdstar": 2,
+        "levelname": 4,
+        "name": "倔强黑铁",
+        "starNum": 3,
+        "throughLevel": 27
+    },
+    {
+        "gradingNum": 3,
+        "icon": "icon5",
+        "id": 5,
+        "leveladdstar": 2,
+        "levelname": 5,
+        "name": "坚毅玄铁",
+        "starNum": 3,
+        "throughLevel": 45
+    },
+    {
+        "gradingNum": 3,
+        "icon": "icon6",
+        "id": 6,
+        "leveladdstar": 3,
+        "levelname": 6,
+        "name": "机敏青铜",
+        "starNum": 3,
+        "throughLevel": 72
+    },
+    {
+        "gradingNum": 3,
+        "icon": "icon7",
+        "id": 7,
+        "leveladdstar": 3,
+        "levelname": 7,
+        "name": "优秀黄铜",
+        "starNum": 4,
+        "throughLevel": 108
+    },
+    {
+        "gradingNum": 4,
+        "icon": "icon8",
+        "id": 8,
+        "leveladdstar": 3,
+        "levelname": 8,
+        "name": "杰出白银",
+        "starNum": 4,
+        "throughLevel": 156
+    },
+    {
+        "gradingNum": 4,
+        "icon": "icon9",
+        "id": 9,
+        "leveladdstar": 3,
+        "levelname": 9,
+        "name": "卓越黄金",
+        "starNum": 4,
+        "throughLevel": 204
+    },
+    {
+        "gradingNum": 5,
+        "icon": "icon10",
+        "id": 10,
+        "leveladdstar": 4,
+        "levelname": 10,
+        "name": "璀璨铂金",
+        "starNum": 4,
+        "throughLevel": 284
+    },
+    {
+        "gradingNum": 5,
+        "icon": "icon11",
+        "id": 11,
+        "leveladdstar": 4,
+        "levelname": 11,
+        "name": "精英振金",
+        "starNum": 4,
+        "throughLevel": 364
+    },
+    {
+        "gradingNum": 5,
+        "icon": "icon12",
+        "id": 12,
+        "leveladdstar": 4,
+        "levelname": 12,
+        "name": "睿智翡翠",
+        "starNum": 5,
+        "throughLevel": 464
+    },
+    {
+        "gradingNum": 5,
+        "icon": "icon13",
+        "id": 13,
+        "leveladdstar": 4,
+        "levelname": 13,
+        "name": "如炬钻石",
+        "starNum": 5,
+        "throughLevel": 564
+    },
+    {
+        "gradingNum": 5,
+        "icon": "icon14",
+        "id": 14,
+        "leveladdstar": 5,
+        "levelname": 14,
+        "name": "卓越大师",
+        "starNum": 5,
+        "throughLevel": 689
+    },
+    {
+        "gradingNum": 5,
+        "icon": "icon15",
+        "id": 15,
+        "leveladdstar": 5,
+        "levelname": 15,
+        "name": "一代宗师",
+        "starNum": 5,
+        "throughLevel": 814
+    },
+    {
+        "gradingNum": 5,
+        "icon": "icon16",
+        "id": 16,
+        "leveladdstar": 6,
+        "levelname": 16,
+        "name": "超烦宗师",
+        "starNum": 5,
+        "throughLevel": 964
+    },
+    {
+        "gradingNum": 5,
+        "icon": "icon17",
+        "id": 17,
+        "leveladdstar": 6,
+        "levelname": 17,
+        "name": "超强王者",
+        "starNum": 5,
+        "throughLevel": 1114
+    },
+    {
+        "gradingNum": 5,
+        "icon": "icon18",
+        "id": 18,
+        "leveladdstar": 7,
+        "levelname": 18,
+        "name": "至尊王者",
+        "starNum": 5,
+        "throughLevel": 1289
+    }
+]

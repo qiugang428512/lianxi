@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="720,1280" designImage="ui://isxx5ak77suj2y">
+  <displayList>
+    <image id="n0_seb1" name="n0" src="e0dy47" fileName="_shareasset/圆角矩形9.png" xy="48,251" size="623,640"/>
+    <image id="n8_xsvo" name="n8" src="e0dy58" fileName="lobby/asset/图层41拷贝.png" xy="128,208" size="464,100"/>
+    <image id="n6_e0dy" name="n6" src="e0dy4c" fileName="windows/freeenergy/asset/获得免费体力.png" xy="213,217"/>
+    <image id="n7_e0dy" name="n7" src="e0dy4d" fileName="windows/freeenergy/asset/图层1拷贝2.png" xy="75,333" size="570,513"/>
+    <component id="n3_seb1" name="btn_addmy" src="seb11u" fileName="windows/freeenergy/component/com_addmy.xml" xy="88,345"/>
+    <component id="n5_seb1" name="btn_addfloat" src="e0dy4g" fileName="windows/freeenergy/component/com_addfloat.xml" xy="88,461"/>
+    <component id="n4_seb1" name="btn_service" src="e0dy4h" fileName="windows/freeenergy/component/com_service.xml" xy="88,576" size="544,104"/>
+    <component id="n1_seb1" name="btn_Close" src="seb11o" fileName="_sharecomponent/btn_close.xml" xy="313,908"/>
+  </displayList>
+</component>

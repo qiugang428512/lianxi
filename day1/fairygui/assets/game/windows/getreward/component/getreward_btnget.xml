@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="293,90">
+  <displayList>
+    <text id="n12_mfc0" name="reward_num" xy="87,23" size="117,44" font="SimHei" fontSize="40" color="#cccccc" align="center" vAlign="middle" autoSize="none" text="领取"/>
+    <graph id="n13_mfc0" name="n13" xy="96,68" size="100,2" type="rect" lineSize="0" fillColor="#ffcccccc"/>
+    <graph id="n14_mfc0" name="n14" xy="0,0" size="293,90" type="rect" lineSize="0" fillColor="#00ffffff"/>
+  </displayList>
+</component>

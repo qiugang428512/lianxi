@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="240,240">
+  <displayList>
+    <image id="n11_np2a" name="n11" src="np2aby" fileName="game/asset/yuangong.png" xy="0,0">
+      <relation target="n7_np2a" sidePair="left-left,top-top"/>
+    </image>
+  </displayList>
+</component>

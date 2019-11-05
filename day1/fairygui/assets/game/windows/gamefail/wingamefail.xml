@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="720,1280" designImage="ui://isxx5ak7vrec71">
+  <displayList>
+    <graph id="n15_xsvo" name="n15" xy="0,0" size="720,1280" type="rect" fillColor="#ffcdcefc">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <component id="n0_seb1" name="btn_energy" src="u6cb1" fileName="_sharecomponent/com_energy.xml" xy="41,29" size="198,54" group="n10_7suj"/>
+    <component id="n1_seb1" name="btn_gold" src="ubk7p" fileName="_sharecomponent/com_gold.xml" xy="290,29" size="198,54" group="n10_7suj"/>
+    <image id="n7_seb1" name="n7" src="vrec73" fileName="windows/gamefail/asset/时间到！.png" xy="164,210" size="392,106" group="n10_7suj"/>
+    <component id="n4_seb1" name="btn_restart" src="h5b52f" fileName="windows/gamefail/component/btn_restart.xml" xy="203,813" size="314,126" group="n10_7suj"/>
+    <component id="n8_seb1" name="btn_back" src="seb11h" fileName="_sharecomponent/btn_back_home.xml" xy="273,938" size="174,60" group="n10_7suj"/>
+    <component id="n11_h5b5" name="btn_delay" src="h5b52i" fileName="windows/gamefail/component/btn_delay.xml" xy="203,691" size="314,106" group="n10_7suj"/>
+    <image id="n12_h5b5" name="n12" src="vrec70" fileName="windows/gamefail/asset/图层670.png" xy="229,373" size="262,304" group="n10_7suj"/>
+    <image id="n13_xsvo" name="n13" src="xsvo83" fileName="_shareasset/形状10.png" xy="135,486" group="n10_7suj"/>
+    <image id="n14_xsvo" name="n14" src="xsvo83" fileName="_shareasset/形状10.png" xy="525,482" group="n10_7suj" flip="hz"/>
+    <component id="n16_bxho" name="n16" src="quq85y" fileName="_sharecomponent/btn_more.xml" xy="570,164" group="n10_7suj"/>
+    <group id="n10_7suj" name="n10" xy="41,29" size="677,969" advanced="true" collapsed="true">
+      <relation target="" sidePair="middle-middle"/>
+    </group>
+  </displayList>
+  <transition name="t0" autoPlay="true">
+    <item time="0" type="Shake" target="n12_h5b5" value="3,1"/>
+  </transition>
+</component>

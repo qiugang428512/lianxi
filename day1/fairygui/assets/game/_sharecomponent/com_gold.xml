@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="198,54" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n0_ubk7" name="n0" src="e0dy3h" fileName="_shareasset/圆角矩形1.png" xy="0,0" size="198,54"/>
+    <text id="n3_ubk7" name="txt" xy="48,2" size="118,47" font="SimHei" fontSize="42" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="2"/>
+    <image id="n4_e0dy" name="n4" src="7suj3a" fileName="_shareasset/椭圆4.png" xy="-6,-4"/>
+    <image id="n5_e0dy" name="n5" src="e0dy3e" fileName="_shareasset/圆角矩形9拷贝.png" xy="162,-8"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue="1.10"/>
+</component>
